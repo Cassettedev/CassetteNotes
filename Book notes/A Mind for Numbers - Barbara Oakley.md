@@ -44,6 +44,7 @@ Chapter one serves as an intro to the author. She talks about her experience and
 * {page 18} When you come across a new problem or new concept, you don't have the neural pathways required to solve it efficiently. You can make good use of diffuse thinking to try and draw from knowledge in other areas to come to a conclusion.
 	>The harder you push your brain to come up with something creative, the less creative your ideas will be. - Shaun Wassell - A Mind for Numbers, page 19
 
+<<<<<<< HEAD
 * {page 20} The reason for these two different modes of thinking for existing dates back to early life, animals had to do tasks such as eating food off the ground, Focused Mode, and scanning the horizon for predators, Diffuse Mode.
 * {page 20} The left hemisphere of the brain is associated with the Focused Mode of thinking, while the right hemisphere is associated with Diffuse Mode. This is not evidence for "Left brain" vs "right brain" people, as everyone uses both hemispheres equally.
 * {page 21} Both Focused and Diffuse modes of thinking are needed to solve a problem, but Diffuse Mode will not activate if we are consciously focusing on it.
@@ -78,6 +79,8 @@ There are two main modes of thinking, Focused Mode and Diffused Mode. These mode
 
 #### CHAPTER 3 SUMMERY:
 Chapter 3 talked about methods and the importance of switching between Focused and Diffuse Modes of thinking. It touched on the main two types of memory that we have, and it also talked about the importance and effectiveness of sleep in the learning process.
+=======
+>>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
 
 
 

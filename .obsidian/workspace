@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Docs/Vim.md",
+            "file": "Blog/Blog.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Docs/Vim.md",
+                "file": "Blog/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3b573c926d302543",
   "lastOpenFiles": [
-    "Wiki/Docs/Vim.md",
-    "Wiki/Docs/Javascript.md",
-    "Wiki/Docs/C.md",
-    "Wiki/Docs/Docs.md",
-    "Gimore.md",
-    "Blog/Story Ideas.md",
-    "Blog/Merveilles Aesthetic Investigation.md",
-    "Blog/decades challlenge.md",
     "Blog/Blog.md",
-    "Book notes/A Mind for Numbers - Barbara Oakley.md"
+    "Blog/Story Ideas.md",
+    "Blog/Goals.md",
+    "Cassette/Goals.md",
+    "Wiki/Docs/Docs.md",
+    "duo septim.md",
+    "graph.png",
+    "Gimore.md",
+    "have read.md",
+    "Home.md"
   ]
 }

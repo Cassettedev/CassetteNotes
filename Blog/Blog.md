@@ -5,6 +5,5 @@
 [[Blog]]
 
 [[decades challlenge]]
-[[Goals]]
 [[Merveilles Aesthetic Investigation]]
 [[Story Ideas]]

@@ -1,4 +1,5 @@
 # An Aesthetic Investigation of Merveilles
+<<<<<<< HEAD
 [[Home]]
 [[Cassette]]
 [[Wiki]]
@@ -9,6 +10,8 @@
 [[Merveilles Aesthetic Investigation]]
 [[Story Ideas]]
 
+=======
+>>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
 Merveilles is a collective of artists and engineers who strive to make themselves and the world a better place through the use of play and constant exploration.
 
 
