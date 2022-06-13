@@ -1,0 +1,1 @@
+>We often think of our mind and body as separate, but our mental health and physical health are interconnected. **Physical health problems significantly increase our risk of developing mental health problems, and vice versa**.
