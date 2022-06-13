@@ -1,4 +1,3 @@
-# To be a philosopher is to have a love for wisdom
 [[Home]]
 [[Cassette]]
 [[Wiki]]
@@ -8,3 +7,6 @@
 [[STEM]]
 [[Health]]
 [[Docs]]
+[[Adulting]]
+
+# To be a philosopher is to have a love for wisdom

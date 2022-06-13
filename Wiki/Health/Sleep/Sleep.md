@@ -1,4 +1,3 @@
-# Sleeping is important
 [[Home]]
 [[Cassette]]
 [[Wiki]]
@@ -8,8 +7,10 @@
 [[STEM]]
 [[Health]]
 [[Docs]]
+[[Adulting]]
 
 [[Physical Health]]
 [[Mental and Brain Health]]
 [[Sleep]]
-### TEMP TITLE
+
+# Sleeping is important

@@ -1,4 +1,3 @@
-# Health is important
 [[Home]]
 [[Cassette]]
 [[Wiki]]
@@ -8,6 +7,9 @@
 [[STEM]]
 [[Health]]
 [[Docs]]
+[[Adulting]]
+
+# Health is important
 
 ##### Physical health is health relating to the physical body
 [[Physical Health]]

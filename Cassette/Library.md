@@ -1,4 +1,3 @@
-# The Library holds media that I enjoy
 [[Home]]
 [[Cassette]]
 [[Wiki]]
@@ -6,7 +5,11 @@
 
 [[Inventory]]
 [[Library]]
+[[Goals]]
+[[Wishlist]]
+[[To Consume]]
 
+# The Library holds media that I enjoy
 ### Books
 **Title - Author**
 -   Do Androids Dream of Electric Sheep? - Philip K. Dick
@@ -28,11 +31,16 @@
 -   Transmissions - Starset
 -   Mnqn - MNQN
 -   loveless - my bloody valentine
+-   Slowdive - Slowdive
 -   Every Open Eye - CHVRCHES
 -   Noise of the New - Seven Ark
 -   Хтонь - Сруб (Khton - Log cabin)
 -   этажи - молчат дома (molchat doma - floors)
--   Slowdive - Slowdive
+-   Бутылочка - Луна (Small Bottle - LUNA )
+-   We're never coming home - Molly Nilsson
+-   Parce que (je t'aime) - Barbara
+-   Tainted Love (Original 1964) - Gloria Jones
+
 
 ### Games
 **Title**

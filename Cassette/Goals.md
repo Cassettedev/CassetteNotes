@@ -1,14 +1,15 @@
-# Goals
 [[Home]]
 [[Cassette]]
 [[Wiki]]
 [[Blog]]
 
-[[decades challlenge]]
+[[Inventory]]
+[[Library]]
 [[Goals]]
-[[Merveilles Aesthetic Investigation]]
-[[Story Ideas]]
+[[Wishlist]]
+[[To Consume]]
 
+# Goals
 While I try not to live in the future to often, It is important to have something to be pushing towards. All of these goals do not have deadlines and do not have a stage of completion. They are things I can constantly improve and push towards.
 
 #### Learn a language or twenty

@@ -9,6 +9,6 @@
 [[Docs]]
 [[Adulting]]
 
-# Science, Technology, Engineering, Mathematics 
-
-### [[Computer Science]]
+[[The Arts]]
+[[Writing]]
+# Writing is the art of communicating ideas through the written word

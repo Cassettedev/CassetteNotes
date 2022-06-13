@@ -5,24 +5,9 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "#booknotes",
-      "color": {
-        "a": 1,
-        "rgb": 16318721
-      }
-    },
-    {
-      "query": "#webnotes",
-      "color": {
-        "a": 1,
-        "rgb": 14645111
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -32,10 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.28071318946255397,
-<<<<<<< HEAD
+  "scale": 0.9999999999999989,
   "close": false
-=======
-  "close": true
->>>>>>> c072d1c971648e82b4e1863fd269f067027e9395
 }

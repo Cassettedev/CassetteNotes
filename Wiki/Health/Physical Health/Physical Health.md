@@ -1,4 +1,3 @@
-# Health relating to the physical body
 [[Home]]
 [[Cassette]]
 [[Wiki]]
@@ -8,11 +7,13 @@
 [[STEM]]
 [[Health]]
 [[Docs]]
+[[Adulting]]
 
 [[Physical Health]]
 [[Mental and Brain Health]]
 [[Sleep]]
 
-### TEMP TITLE
-##### A Diet is a set of rules, guidelines, or restrictions relating to food
-[[Diet]]
+# Health relating to the physical body
+
+### [[Diet]]
+A Diet is a set of rules, guidelines, or restrictions relating to food

@@ -1,4 +1,3 @@
-# The inventory holds my prized possessions
 [[Home]]
 [[Cassette]]
 [[Wiki]]
@@ -6,3 +5,8 @@
 
 [[Inventory]]
 [[Library]]
+[[Goals]]
+[[Wishlist]]
+[[To Consume]]
+
+# The inventory holds my prized possessions

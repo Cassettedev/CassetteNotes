@@ -1,14 +1,12 @@
-# An Aesthetic Investigation of Merveilles
 [[Home]]
 [[Cassette]]
 [[Wiki]]
 [[Blog]]
 
-[[decades challlenge]]
-[[Goals]]
-[[Merveilles Aesthetic Investigation]]
 [[Story Ideas]]
+[[Merveilles Aesthetic Investigation]]
 
+# An Investigation of the aesthetic of Merveilles
 ### Visual
 Merveilles has Euro-Asian influences in terms of aesthetics, keeping conscious effort to avoid colonization and other symptoms of white-supremacy that come with idolising anything Euro-centric. 
 
@@ -81,7 +79,7 @@ I already have a love for the art of the 18th-19th century, such as the works of
 
 Hardware, tools, architecture, and other physical objects follow design cues of brutalism, industrial design, and the modern minimalist trend. Devices that use only what's needed to convey information are praised and admired. Straight lines or consistent curves in abstract geometric patterns are favored. If not this, then vintage tools are loved, if not more-so than the minimalist tools. Old thinkpads and antique knives come to mind.
 
-I have always disliked "noisy" designs. I much prefer Windows95 and MacOS 7 over Windows Vista and MacOS Tiger. Like fashion, allowing individual things allows the collective appearance of them to be more coherent and pleasing on the eye. Letting individual pieces of hardware be "boring" also allows for deep and unique customisation, think draping plants over brutalist architecture, or covering your laptop in stickers.
+I have always disliked noisy designs. I much prefer Windows95 and MacOS 7 over Windows Vista and MacOS Tiger. Like fashion, allowing individual things be "plain" and "boring" allows the collective appearance of them to be more coherent and pleasing on the eye. Letting individual pieces be "boring" also allows for deep and unique customisation. Think draping plants over brutalist architecture, or covering your plain laptop in colourful, personality ridden stickers.
 
 ### Audio
 Through interacting with the Merveilles community, I have developed a love for genres such as Ambient, Dungeon Synth, Stoner Metal, and Shoegaze. I wish I could explain how I feel these genres relate to the aesthetic, but this remains to be difficult. Maybe it's the "dark", but not evil, aura of these songs. They are contemplative and "introverted" in nature, encouraging relaxation and self-reflection.

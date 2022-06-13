@@ -1,16 +1,11 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # A collection of ideas for stories that I might create one day
 [[Home]]
 [[Cassette]]
 [[Wiki]]
 [[Blog]]
 
-[[decades challlenge]]
-[[Goals]]
-[[Merveilles Aesthetic Investigation]]
 [[Story Ideas]]
+[[Merveilles Aesthetic Investigation]]
 
 ### Jazz Superman
 If The Batman is a grungy batman movie, Jazz Superman (name subject to change) is a fun superman movie. Jazz soundtrack, with the visual style of old 50s paintings matching the time that Superman was invented. Think Incredibles. Probably a comic

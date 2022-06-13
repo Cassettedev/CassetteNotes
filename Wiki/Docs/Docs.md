@@ -8,9 +8,11 @@
 [[STEM]]
 [[Health]]
 [[Docs]]
+[[Adulting]]
 
-#### [[Javascript]]
+### [[MISC DOCS]]
+Documentation for things I like, but have not organised
 
-#### [[C]]
+### [[STEM DOCS]]
+Documentation for things relating to the STEM fields
 
-#### [[Vim]]

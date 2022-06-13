@@ -1,4 +1,3 @@
-# The Arts are methods of communicating ideas
 [[Home]]
 [[Cassette]]
 [[Wiki]]
@@ -8,4 +7,9 @@
 [[STEM]]
 [[Health]]
 [[Docs]]
+[[Adulting]]
+
+# The Arts are methods of communicating ideas
+
+[[Writing]]
 

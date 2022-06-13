@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e07e1dc3238d41b",
+        "id": "0eb4b5ae74402f2f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e07e1dc3238d41b",
+  "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
-    "README.md",
-    "Wiki/Humanities/The Arts/The Arts.md",
-    "Wiki/Humanities/The Arts/Notes on design from XXIIVV.md",
-    "Wiki/Humanities/The Arts/colours.md",
-    "Wiki/Humanities/Writing/banging quotes.md",
-    "Wiki/Humanities/Humanities.md",
-    "Wiki/STEM/Computer Science/Notes on Permacomputing from XXIIVV.md",
-    "Wiki/STEM/Computer Science/Computer Science.md",
-    "Wiki/Wiki.md",
-    "5 Exellences.md"
+    "License.md",
+    "Home.md",
+    "License.txt",
+    "Blog/Story Ideas.md",
+    "Blog/Merveilles Aesthetic Investigation.md",
+    "Blog/Blog.md",
+    "Blog/A Mind for Numbers - Barbara Oakley.md",
+    "Cassette/Goals.md",
+    "Cassette/Cassette.md",
+    "Cassette/Inventory.md"
   ]
 }

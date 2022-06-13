@@ -9,6 +9,6 @@
 [[Docs]]
 [[Adulting]]
 
-# Science, Technology, Engineering, Mathematics 
+# Documentation for things I like, but have not organised
 
-### [[Computer Science]]
+[[Things Devine has said]]

@@ -1,9 +1,10 @@
-# Blog
 [[Home]]
 [[Cassette]]
 [[Wiki]]
 [[Blog]]
+# The Blog is a collection of informal non-fiction
 
-[[decades challlenge]]
-[[Merveilles Aesthetic Investigation]]
-[[Story Ideas]]
+### [[Merveilles Aesthetic Investigation]]
+An investigation into the aesthetic of Merveilles
+### [[Story Ideas]]
+A collection of ideas for stories that I might create one day
