@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Humanities/The Arts/The Arts.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Humanities/The Arts/The Arts.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "2e07e1dc3238d41b",
   "lastOpenFiles": [
+    "README.md",
     "Wiki/Humanities/The Arts/The Arts.md",
     "Wiki/Humanities/The Arts/Notes on design from XXIIVV.md",
     "Wiki/Humanities/The Arts/colours.md",
@@ -96,7 +97,6 @@
     "Wiki/STEM/Computer Science/Notes on Permacomputing from XXIIVV.md",
     "Wiki/STEM/Computer Science/Computer Science.md",
     "Wiki/Wiki.md",
-    "5 Exellences.md",
-    "Becoming a Linux chad.md"
+    "5 Exellences.md"
   ]
 }
