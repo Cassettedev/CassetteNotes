@@ -26,29 +26,36 @@ Garret and Malcolm came to this;
 -??? (Painting)  
 -Self defense / T'ai Chi (T'ai Chi)  
 -First Aid / Nutrition (Medicine)
-The Barefoot Doctor [1] thought that one of the modern ones should have been Meditation.
+The Barefoot Doctor thought that one of the modern ones should have been Meditation.
 Love to hear your thoughts on this concept?
-[1] [http://www.sk-budo.com/DL_pdf/Five%20Exce](http://www.sk-budo.com/DL_pdf/Five%20Excellences.pdf)
-Garrett - What are the 5 modern excellences you are thinking of?
-Malcolm - Presentation, Composition, something, health / nutrition, self defense. Another toot in the main thread goes into a little more depth.
-Garrett - I'm going to have to think on a few of these but I do strongly agree with three, but maybe with minor changes:
+
+>Garrett - What are the 5 modern excellences you are thinking of?
+
+>Malcolm - Presentation, Composition, something, health / nutrition, self defense. Another toot in the main thread goes into a little more depth.
+
+>Garrett - I'm going to have to think on a few of these but I do strongly agree with three, but maybe with minor changes:
 -Composition - I would consider combining with Presentation and just using the phrase "Communication."
 -Self Defense - That's good by itself. Any modern taught self defense style is good.
 -First Aid/Nutrition - I'd change this to personal health, and include mental health like Meditation.
-Garrett - I also think everyone should know how to program. Not necessarily code, though. There are lots of tools out there that let you "program" software but without having to code. In my opinion, programming and coding are two different but related things. But I strongly believe everyone should be able to take their basic ideas and make them happen on a computer.
-Malcolm - I agree. And part of minimal.click is for me to get better than that. I agree totally with you. The art of programming is the art of controlling your environment.
-Malcolm - ooh, good call. I like that:
+
+>Garrett - I also think everyone should know how to program. Not necessarily code, though. There are lots of tools out there that let you "program" software but without having to code. In my opinion, programming and coding are two different but related things. But I strongly believe everyone should be able to take their basic ideas and make them happen on a computer.
+
+>Malcolm - I agree. And part of minimal.click is for me to get better than that. I agree totally with you. The art of programming is the art of controlling your environment.
+
+>Malcolm - ooh, good call. I like that:
 -Communication  
 -Self Defence  
 -Personal Health 
 Will probably have to think of what the gaps could be.
-Garrett - So we're at:
+
+>Garrett - So we're at:
 -Communication  
 -Self Defence  
 -Personal Health  
 -Programming  
 -?
-Malcolm - 
+
+>Malcolm - 
 -Communication  
 -Self Defence  
 -Personal Health  

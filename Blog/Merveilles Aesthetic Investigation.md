@@ -1,6 +1,13 @@
 # An Aesthetic Investigation of Merveilles
-Merveilles is a collective of artists and engineers who strive to make themselves and the world a better place through the use of play and constant exploration.
+[[Home]]
+[[Cassette]]
+[[Wiki]]
+[[Blog]]
 
+[[decades challlenge]]
+[[Goals]]
+[[Merveilles Aesthetic Investigation]]
+[[Story Ideas]]
 
 ### Visual
 Merveilles has Euro-Asian influences in terms of aesthetics, keeping conscious effort to avoid colonization and other symptoms of white-supremacy that come with idolising anything Euro-centric. 

@@ -44,14 +44,30 @@ The C Programming Language - Brian Kernighan, Dennis Ritchie
 
 Anti-Oedipus - Deleuze and Guattari
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Revolutionary Suicide - HUEY P. NEWTON
+
+=======
+>>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
+>>>>>>> c072d1c971648e82b4e1863fd269f067027e9395
 Figure Drawing For All It's Worth - Andrew Loomis
 
 Figure Drawing Design And Invention - Michael Hampton
 
 Drawing The Head And Hands - Andrew Loomis
 
+<<<<<<< HEAD
 Frankenstein - Mary Shelley
 
+=======
+<<<<<<< HEAD
+=======
+Frankenstein - Mary Shelley
+
+>>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
+>>>>>>> c072d1c971648e82b4e1863fd269f067027e9395
 Solaris - Stanisław Lem
 
 Ways of Being - James Bridle
@@ -62,13 +78,29 @@ A Philosophy of Software Design, 2nd Edition - John Ousterhout
 
 Busy Doing Nothing - Rekka Bellum, Devine Lu Linvega
 
+<<<<<<< HEAD
 Zen in the Art of Writing - 
+=======
+<<<<<<< HEAD
+Zen in the Art of Writing - Ray Bradbury
+=======
+Zen in the Art of Writing - 
+>>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
+>>>>>>> c072d1c971648e82b4e1863fd269f067027e9395
 
 Master of Five Excellences - Cheng Man-Ching
 
 Inventing Reality: The Politics of News Media - Michael Parenti
 
+<<<<<<< HEAD
 Meditations - Marcus Aurelius
+=======
+<<<<<<< HEAD
+Meditations - Marcus Aurelius 
+=======
+Meditations - Marcus Aurelius
+>>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
+>>>>>>> c072d1c971648e82b4e1863fd269f067027e9395
 
 The Trial and Death of Socrates - Plato
 
@@ -104,8 +136,16 @@ Kaptial - Karl Marx
 
 The Conquest of Bread - Peter Kropotkin
 
+<<<<<<< HEAD
 Klara and the Sun - Kazuo Ishiguro
 
+=======
+<<<<<<< HEAD
+=======
+Klara and the Sun - Kazuo Ishiguro
+
+>>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
+>>>>>>> c072d1c971648e82b4e1863fd269f067027e9395
 FROM XXIIV:
 -   **Le Matin Des Magiciens**: L. Pauwels & J. Bergier. 1960
 -   **Le Città Invisibili**: Italo Calvino. 1972

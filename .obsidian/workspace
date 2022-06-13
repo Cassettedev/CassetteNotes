@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "0e119582e7cdc5fb",
+    "id": "6f2d7edcc8cce1e0",
     "type": "split",
     "children": [
       {
-        "id": "4622bc4697a5d8eb",
+        "id": "2e07e1dc3238d41b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adulting/Communication/Notes on communication from XXIIVV.md",
-            "mode": "preview"
+            "file": "Wiki/Humanities/The Arts/The Arts.md",
+            "mode": "source"
           }
         }
       }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3433ed38cf0e5df",
+    "id": "dd235e258dfe96c7",
     "type": "split",
     "children": [
       {
-        "id": "7fa4be2a04d103eb",
+        "id": "87c98fa3ab4d9651",
         "type": "tabs",
         "children": [
           {
-            "id": "5749c0f5f9191cea",
+            "id": "9d2716233936afc8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "fd60e160843a9a26",
+            "id": "072384c78a42b663",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 300
   },
   "right": {
-    "id": "2f992525f07deca8",
+    "id": "5ecab9ac770152d2",
     "type": "split",
     "children": [
       {
-        "id": "48da928f96234c42",
+        "id": "bd9839921af63be0",
         "type": "tabs",
         "children": [
           {
-            "id": "3a5ff4826121a42d",
+            "id": "1240365dcf26fed9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adulting/Communication/Notes on communication from XXIIVV.md",
+                "file": "Wiki/Humanities/The Arts/The Arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473,
+    "width": 300,
     "collapsed": true
   },
-  "active": "4622bc4697a5d8eb",
+  "active": "2e07e1dc3238d41b",
   "lastOpenFiles": [
-    "Adulting/Communication/Notes on communication from XXIIVV.md",
-    "Resources/To Consume.md",
-    "Resources/Wishlist.md",
-    "Blog/Goals.md",
-    "Blog/decades challlenge.md",
-    "Humanities/Philosophy/Notes from XXIIVV from Ascetism.md",
-    "duo septim.md",
-    "Becoming a Linux chad.md",
+    "Wiki/Humanities/The Arts/The Arts.md",
+    "Wiki/Humanities/The Arts/Notes on design from XXIIVV.md",
+    "Wiki/Humanities/The Arts/colours.md",
+    "Wiki/Humanities/Writing/banging quotes.md",
+    "Wiki/Humanities/Humanities.md",
+    "Wiki/STEM/Computer Science/Notes on Permacomputing from XXIIVV.md",
+    "Wiki/STEM/Computer Science/Computer Science.md",
+    "Wiki/Wiki.md",
     "5 Exellences.md",
-    "inbox.md"
+    "Becoming a Linux chad.md"
   ]
 }

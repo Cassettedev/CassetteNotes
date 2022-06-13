@@ -14,9 +14,29 @@ Muji fountain pen
 
 small pencil case
 
+<<<<<<< HEAD
 701KC dumbphone
 
 LightPhone
+=======
+<<<<<<< HEAD
+Thermometer
+
+Painting equipment and Acrylic paints
+
+candles
+
+audiophile headphones and audio setup
+
+modular synth modules
+
+analogue audio effects, mixer, almost full DAWless setup
+=======
+701KC dumbphone
+
+LightPhone
+>>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
+>>>>>>> c072d1c971648e82b4e1863fd269f067027e9395
 
 # Books
 Dracula - Bram Stoker
@@ -43,7 +63,15 @@ The Dispossessed - Ursula K. Le Guin
 
 **Inventing Reality: The Politics of News Media - Michael Parenti**
 
+<<<<<<< HEAD
 Meditations - Marcus Aurelius
+=======
+<<<<<<< HEAD
+Meditations - Marcus Aurelius 
+=======
+Meditations - Marcus Aurelius
+>>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
+>>>>>>> c072d1c971648e82b4e1863fd269f067027e9395
 
 
 # Instruments
