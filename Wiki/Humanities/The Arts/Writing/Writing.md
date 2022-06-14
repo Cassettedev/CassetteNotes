@@ -9,6 +9,7 @@
 [[Docs]]
 [[Adulting]]
 
+[[Philosphy]]
 [[The Arts]]
 [[Writing]]
 # Writing is the art of communicating ideas through the written word

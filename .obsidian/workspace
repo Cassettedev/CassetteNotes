@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Health/Sleep/Sleep.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3c0ed7c4ebb4bbe1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Wiki/Health/Sleep/Sleep.md",
+            "file": "Home.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Health/Sleep/Sleep.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +88,15 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
-    "Wiki/Health/Sleep/Sleep.md",
-    "Wiki/Health/Sleep/Sleep from dr k.md",
-    "Wiki/Health/Mental and Brain Health/Mental and Brain Health.md",
-    "Wiki/Health/Physical Health/Physical Health.md",
-    "Wiki/Health/Physical Health/Diet/Japanese Diet.md",
-    "Wiki/Health/Physical Health/Diet/Mederterranian Diet.md",
-    "Wiki/Health/Physical Health/Notes on health from XXIIVV.md",
-    "Untitled.md",
-    "Wiki/STEM/Computer Science/Computer Science.md",
-    "Wiki/STEM/Computer Science/Notes on programming from XXIIVV.md"
+    "Home.md",
+    "inbox.md",
+    "Wiki/Adulting/Productivity/Productivity.md",
+    "Wiki/Adulting/Communication/Communication.md",
+    "Wiki/Adulting/Cookbook.md",
+    "Wiki/Adulting/Adulting.md",
+    "Wiki/Docs/STEM/Vim.md",
+    "Wiki/Docs/STEM/Javascript.md",
+    "Wiki/Docs/STEM/C.md",
+    "Wiki/Docs/STEM/STEM DOCS.md"
   ]
 }

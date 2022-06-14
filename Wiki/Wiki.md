@@ -1,9 +1,9 @@
-# The Wiki is a personal encyclopedia holding knowledge I find useful
 [[Home]]
 [[Cassette]]
 [[Wiki]]
 [[Blog]]
 
+# The Wiki is a personal encyclopedia holding knowledge I find useful
 ### [[Humanities]]
 The Humanities is the study of society, culture, and humanity
 

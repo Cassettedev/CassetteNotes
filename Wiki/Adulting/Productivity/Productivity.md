@@ -14,7 +14,8 @@
 [[Communication]]
 
 # To be productive is to do a task effectively and with efficacy 
-# Notes on work from XXIIVV### work knowledge
+# Notes on work from XXIIVV
+### work knowledge
 -   Find your passion and figure out how to get paid for it.
 -   Do whatever you want to do, but be the best at it.
 -   Strive for simplicity and competence, but embrace the messiness along the way.

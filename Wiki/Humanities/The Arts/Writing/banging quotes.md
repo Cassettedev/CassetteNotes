@@ -14,7 +14,7 @@
 
 [[banging quotes]]
 # A compilation of cool quotes
-"An unwelcome consequence of living in a world where everything is “easy” is that the only skill that matters is the ability to multitask." (this is not good because multitasking sucks ass)
+>"An unwelcome consequence of living in a world where everything is “easy” is that the only skill that matters is the ability to multitask." (this is not good because multitasking sucks ass)
 
 "At the extreme, we don’t actually do anything; we only arrange what will be done, which is a flimsy basis for a life." - Rekka
 

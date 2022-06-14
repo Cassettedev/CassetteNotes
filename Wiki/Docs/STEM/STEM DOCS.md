@@ -9,6 +9,9 @@
 [[Docs]]
 [[Adulting]]
 
+[[MISC DOCS]]
+[[STEM DOCS]]
+
 # Documentation for things relating to the STEM fields
 
 ### [[C]]

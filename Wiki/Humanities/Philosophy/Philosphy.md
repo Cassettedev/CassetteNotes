@@ -9,6 +9,9 @@
 [[Docs]]
 [[Adulting]]
 
+[[Philosphy]]
+[[The Arts]]
+
 # To be a philosopher is to have a love for wisdom
 # Notes from XXIIVV from Ascetism
 ## Ascetism
