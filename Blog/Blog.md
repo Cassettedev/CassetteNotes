@@ -3,8 +3,8 @@
 [[Wiki]]
 [[Blog]]
 # The Blog is a collection of personal, informal non-fiction
-### [[Story Ideas]]
+### [[Story_Ideas]]
 A collection of ideas for stories that I might create one day
 
-### [[Game Ideas]]
+### [[Game_Ideas]]
 A collection of ideas for games that I might create one day
