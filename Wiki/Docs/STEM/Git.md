@@ -50,7 +50,7 @@ You might only want to add one or a few files instead of all the files you have 
 ```
 git add file.example01
 ```
-or:
+to edit individual files, or:
 ```
 git add -A
 ```
