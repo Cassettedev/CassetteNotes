@@ -10,9 +10,9 @@
 [[Docs]]
 [[Adulting]]
 
-### [[MISC DOCS]]
+### [[MISC_DOCS]]
 Documentation for things I like, but have not organised
 
-### [[STEM DOCS]]
+### [[STEM_DOCS]]
 Documentation for things relating to the STEM fields
 

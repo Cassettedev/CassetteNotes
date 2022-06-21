@@ -10,6 +10,7 @@
 [[Adulting]]
 
 [[C]]
+[[Git]]
 [[Javascript]]
 [[Vim]]
 
