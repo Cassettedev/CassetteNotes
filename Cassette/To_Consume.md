@@ -1,0 +1,145 @@
+[[Home]]
+[[Cassette]]
+[[Wiki]]
+[[Blog]]
+
+[[Inventory]]
+[[Library]]
+[[Goals]]
+[[Wishlist]]
+[[To_Consume]]
+
+# A compilation of media I want to enjoy one day
+
+### Movies
+
+Nausicaa of the Valley of the Wind - Hayao Miyazaki
+
+Yokohama Kaidashi Kikou - Hitoshi Ashinano
+
+Drunken Dragon - Chung-Hsing Chao
+
+The Social Network - David Fincher
+
+FROM XXIIVV:
+-   **Rosencrantz and Guildenstern Are Dead**: Tom Stoppard. 1990
+-   **Solaris**: Steven Soderbergh. 2002
+-   **Wristcutter**: A Love Story : Goran Dukic. 2006
+-   **The Rules of Attraction**: Roger Avary. 2002
+-   **Faust**: Jan Švankmajer. 1994
+-   **เรื่องรัก น้อยนิด มหาศา**: Pen-Ek Ratanaruang. 2003
+-   **My Dinner with Andre**: Louis Malle. 1981
+-   **Sedmikrásky**: Věra Chytilová. 1996
+-   **Valerie A Týden Divů**: Jaromil Jireš. 1970
+-   **Тіні забутих предків**: Sergei Parajanov. 1967
+-   **Na srebrnym globie**: Andrzej Żuławski. 1988
+-   **茶の味**: Katsuhito Ishii. 2004
+-   **Cat Soup**: Tatsuo Satō. 2001
+-   **Black Moon**: Louis Malle. 1975
+
+Experimental movies
+
+Art house movies
+
+### Shows
+Planetes - Makoto Yukimura
+
+Serial Experiments Lain
+
+### Books
+Dracula - Bram Stoker
+
+Powers of Darkness: The Lost Version of Dracula - some Icelandic dude lmao
+
+Carmilla - Sheridan Le Fanu (the og Gothic vampire book, made before Dracula(lotta Dracula on my TBR lmao))
+
+The Dispossessed - Ursula K. Le Guin
+
+The C Programming Language - Brian Kernighan, Dennis Ritchie
+
+Anti-Oedipus - Deleuze and Guattari
+
+Revolutionary Suicide - HUEY P. NEWTON
+
+Figure Drawing For All It's Worth - Andrew Loomis
+
+Figure Drawing Design And Invention - Michael Hampton
+
+Drawing The Head And Hands - Andrew Loomis
+
+Frankenstein - Mary Shelley
+
+Solaris - Stanisław Lem
+
+Ways of Being - James Bridle
+
+The Design of Everyday Things - Don Norman
+
+A Philosophy of Software Design, 2nd Edition - John Ousterhout
+
+Busy Doing Nothing - Rekka Bellum, Devine Lu Linvega
+
+Zen in the Art of Writing - Ray Bradbury
+
+Master of Five Excellences - Cheng Man-Ching
+
+Inventing Reality: The Politics of News Media - Michael Parenti
+
+Meditations - Marcus Aurelius
+
+The Trial and Death of Socrates - Plato
+
+The Divine Comedy - Dante Alighieri (the hollanders translation)
+
+The Tale of Genji - Murasaki Shikibu
+
+Beowulf - ?????
+
+Ikigai: The Japanese Secret to a Long and Happy Life - Gracia and Miralles
+
+The Ikigai Journey: Find Your Purpose the Japanese Way - Gracia and Miralles
+
+The Power of Habit- Charles Duhigg
+
+The Geography of Thought - Richard E. Nisbett
+
+Writing and Script: A Very Short Introduction - W. Andrew Robbinson
+
+The Symbol Detective: How to Decipher Mystical Motifs And Know Where to Find Them - Tony Allan
+
+Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives - James H. Fowler and Nicholas Christakis
+
+Imagist Poetry - Peter Jones
+
+Draft No. 4 - John McPhee
+
+Oxford Guide to Plain English - Martin Cutts
+
+The Communist Manifesto - Karl Marx
+
+Kaptial - Karl Marx
+
+The Conquest of Bread - Peter Kropotkin
+
+Klara and the Sun - Kazuo Ishiguro
+
+FROM XXIIV:
+-   **Le Matin Des Magiciens**: L. Pauwels & J. Bergier. 1960
+-   **Le Città Invisibili**: Italo Calvino. 1972
+-   **Ficciones**: Jorge Luis Borges. 1941
+-   **No.44**: Mark Twain. 1916
+-   **Kybalion**: Three Initiates. 1908
+-   **La Ricerca della Lingua Perfetta**: Umberto Eco. 1993
+-   **The Handmaid's Tale**: Margaret Atwood. 1985
+-   **Flatland**: Edwin A. Abbott. 1884
+-   **Blumroch l'admirable**: Louis Pauwels. 1976
+-   **Cyberiada**: Stanisław Lem. 1965
+-   **Etidorhpa**: John Uri Lloyd. 1895
+-   **The Long Way**: Bernard Moitessier
+-   **Finite and Infinite Games**: James P. Carse
+-   **Ishmael**: Daniel Quinn. 1992
+
+
+
+
+
