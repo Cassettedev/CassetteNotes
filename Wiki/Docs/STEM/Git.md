@@ -66,7 +66,7 @@ Changes to be committed:
 	new file: file.example01
 ```
 
-If you type 
+If you type :
 ```
 git rm file.example01
 ```
