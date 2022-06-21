@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cassette/Library.md",
+            "file": "Wiki/Docs/STEM/Git.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cassette/Library.md",
+                "file": "Wiki/Docs/STEM/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
+    "Wiki/Docs/STEM/Git.md",
     "Cassette/Library.md",
     "Cassette/Inventory.md",
     "Wiki/STEM/Computer_Science/Computer_Science.md",
     "Wiki/Health/Sleep/Sleep.md",
     "Wiki/STEM/STEM.md",
-    "Wiki/Docs/STEM/Git.md",
     "Blog/Blog.md",
     "Wiki/Humanities/Philosophy/Philosphy.md",
     "Wiki/Humanities/The_Arts/The_Arts.md",

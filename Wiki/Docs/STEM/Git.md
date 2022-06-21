@@ -50,6 +50,11 @@ You might only want to add one or a few files instead of all the files you have 
 ```
 git add file.example01
 ```
+or:
+```
+git add -A
+```
+to affect all files that have been modified, the files that will show in `git status`
 
 If you type `git status` again, you should see something like:
 ```
