@@ -61,6 +61,20 @@ Changes to be committed:
 	new file: file.example01
 ```
 
+If you type 
+```
+git rm file.example01
+```
+you can remove the file. `git status` should display:
+```
+On branch [INSERT BRANCH]
+
+No commits yet
+
+Chnages to be committed:
+	deleted: file.example01
+```
+
 You can now commit the file. "Committing a file" can be thought of as taking a snapshot of its current state. To make a commit, type:
 ```
 git commit -m "[INSERT MESSAGE HERE]"
@@ -69,5 +83,15 @@ The reason for the `-m ""` command is to send a message that is asscosiated with
 ```
 git commit -m "Created file.example01"
 ```
+
+### Pushing to Github
+Github is not actually a part of Git. Github is a service where you can host your files that you upload through Git.
+
+`git commit` will not actually push your changes to Github. For this, you have to use the "push" command:
+```
+git push origin [INSERT BRANCH HERE]
+```
+
+After this, you will be prompted to enter your username and your "password", though I used a generated token, as It seems to be the only way it works for me.
 
 
