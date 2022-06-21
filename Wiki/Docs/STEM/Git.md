@@ -14,7 +14,7 @@
 [[Javascript]]
 [[Vim]]
 
-# The version control system Git
+# Git is a Version Control system
 Version Control is a method of tracking and managing the development of a given project. Almost always used in the context of software, but the concepts can be applied to many projects unrelated to software development.
 
 Git is the most popular Version Control software used today. It is neigh-essential for any remotely professional software developer, and highly recommended to hobbyists.
