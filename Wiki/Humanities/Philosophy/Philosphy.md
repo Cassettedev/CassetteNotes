@@ -10,7 +10,7 @@
 [[Adulting]]
 
 [[Philosphy]]
-[[The Arts]]
+[[The_Arts]]
 
 # To be a philosopher is to have a love for wisdom
 # Notes from XXIIVV from Ascetism

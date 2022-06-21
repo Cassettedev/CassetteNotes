@@ -9,8 +9,8 @@
 [[Docs]]
 [[Adulting]]
 
-[[Physical Health]]
-[[Mental and Brain Health]]
+[[Physical_Health]]
+[[Mental_and_Brain_Health]]
 [[Sleep]]
 
 # Sleeping is important

@@ -7,6 +7,6 @@
 [[Library]]
 [[Goals]]
 [[Wishlist]]
-[[To Consume]]
+[[To_Consume]]
 
 # The inventory holds my prized possessions

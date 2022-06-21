@@ -7,7 +7,7 @@
 [[Library]]
 [[Goals]]
 [[Wishlist]]
-[[To Consume]]
+[[To_Consume]]
 
 # Goals
 While I try not to live in the future to often, It is important to have something to be pushing towards. All of these goals do not have deadlines and do not have a stage of completion. They are things I can constantly improve and push towards.
@@ -23,7 +23,7 @@ Some languages might be;
 * Latin
 * Italian
 
-#### Become a competent in [[The Arts]]
+#### Become a competent in [[The_Arts]]
 To be component in The Arts is to have a level of mastery that allows me to create anything I want with little to no hesitation, confident that I will have the skills to create it, if not learn how to create it extremely quickly.
 
 #### Become competent at many [[STEM]] subjects

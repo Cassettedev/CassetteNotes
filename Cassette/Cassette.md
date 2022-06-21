@@ -18,6 +18,6 @@ Here you will find a compilation of Cassettes goals
 ### [[Wishlist]]
 Here you will find a compilation of things Cassette wants
 
-### [[To Consume]]
+### [[To_Consume]]
 Here you will find a compilation of media Cassette wants to enjoy one day
 

@@ -7,7 +7,7 @@
 [[Library]]
 [[Goals]]
 [[Wishlist]]
-[[To Consume]]
+[[To_Consume]]
 
 # The Library holds media that I enjoy
 ### Books

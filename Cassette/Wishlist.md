@@ -7,10 +7,10 @@
 [[Library]]
 [[Goals]]
 [[Wishlist]]
-[[To Consume]]
+[[To_Consume]]
 
 # The wishlist is a compilation of things I want
-Different from [[To Consume]], these are things I actually currently want in the present, as opposed to sometime in the future.
+Different from [[To_Consume]], these are things I actually currently want in the present, as opposed to sometime in the future.
 
 ### Tech
 
@@ -35,12 +35,6 @@ LightPhone
 Thermometer
 
 Painting equipment and Acrylic paints
-
-candles
-
-audiophile headphones and audio setup
-
-modular synth modules
 
 ### Books
 Dracula - Bram Stoker

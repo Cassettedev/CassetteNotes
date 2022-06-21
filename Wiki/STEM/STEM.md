@@ -11,5 +11,5 @@
 
 # Science, Technology, Engineering, Mathematics 
 
-### [[Computer Science]]
+### [[Computer_Science]]
 Computer Science is the study of computation

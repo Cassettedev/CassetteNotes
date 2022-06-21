@@ -14,5 +14,5 @@
 ### [[Philosphy]]
 To be a philosopher is to have a love for wisdom
 
-### [[The Arts]]
+### [[The_Arts]]
 The Arts are methods of communicating ideas

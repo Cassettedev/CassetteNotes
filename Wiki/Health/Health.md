@@ -11,10 +11,10 @@
 
 # Health is important
 
-### [[Physical Health]] 
+### [[Physical_Health]] 
 Physical health is health relating to the physical body
 
-### [[Mental and Brain Health]]
+### [[Mental_and_Brain_Health]]
 Mental Health is health relating to the brain
 
 ### [[Sleep]]

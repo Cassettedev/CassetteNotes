@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Cassette/Library.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Cassette/Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
-    "Home.md",
-    "inbox.md",
-    "Wiki/Adulting/Productivity/Productivity.md",
-    "Wiki/Adulting/Communication/Communication.md",
-    "Wiki/Adulting/Cookbook.md",
-    "Wiki/Adulting/Adulting.md",
-    "Wiki/Docs/STEM/Vim.md",
-    "Wiki/Docs/STEM/Javascript.md",
-    "Wiki/Docs/STEM/C.md",
-    "Wiki/Docs/STEM/STEM DOCS.md"
+    "Cassette/Library.md",
+    "Cassette/Inventory.md",
+    "Wiki/STEM/Computer_Science/Computer_Science.md",
+    "Wiki/Health/Sleep/Sleep.md",
+    "Wiki/STEM/STEM.md",
+    "Wiki/Docs/STEM/Git.md",
+    "Blog/Blog.md",
+    "Wiki/Humanities/Philosophy/Philosphy.md",
+    "Wiki/Humanities/The_Arts/The_Arts.md",
+    "Wiki/Humanities/The_Arts/Writing/banging_quotes.md"
   ]
 }
