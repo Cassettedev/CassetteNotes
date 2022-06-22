@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Docs/STEM/Git.md",
-            "mode": "preview"
+            "file": "Wiki/Docs/STEM/Vim.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Docs/STEM/Git.md",
+                "file": "Wiki/Docs/STEM/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
+    "Wiki/Docs/STEM/Vim.md",
     "Wiki/Docs/STEM/Git.md",
     "Cassette/Library.md",
     "Cassette/Inventory.md",
@@ -96,7 +97,6 @@
     "Wiki/STEM/STEM.md",
     "Blog/Blog.md",
     "Wiki/Humanities/Philosophy/Philosphy.md",
-    "Wiki/Humanities/The_Arts/The_Arts.md",
-    "Wiki/Humanities/The_Arts/Writing/banging_quotes.md"
+    "Wiki/Humanities/The_Arts/The_Arts.md"
   ]
 }

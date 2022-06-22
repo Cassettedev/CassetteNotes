@@ -50,7 +50,7 @@ To update a plugin:
 To update all plugins:
 `:PlugUpdate`
 To uninstall a plugin:
-Remove it from the .vimrc file and;
+Remove it from the .vimrc file and type:
 `:PlugClean`
 
 
