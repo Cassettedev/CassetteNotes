@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Humanities/The_Arts/The_Arts.md",
+            "file": "Wiki/Humanities/The_Arts/Writing/Writing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Humanities/The_Arts/The_Arts.md",
+                "file": "Wiki/Humanities/The_Arts/Writing/Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
+    "Wiki/Humanities/The_Arts/Writing/Writing.md",
+    "Wiki/Humanities/The_Arts/Writing/banging_quotes.md",
     "Wiki/Humanities/The_Arts/The_Arts.md",
     "Wiki/Humanities/Philosophy/Philosophy.md",
     "Wiki/Humanities/Humanities.md",
-    "Wiki/Humanities/The_Arts/Writing/Writing.md",
     "Wiki/Adulting/Communication/Communication.md",
     "Wiki/Docs/STEM/Vim.md",
     "Wiki/Docs/STEM/Git.md",
     "Cassette/Library.md",
-    "Cassette/Inventory.md",
-    "Wiki/STEM/Computer_Science/Computer_Science.md"
+    "Cassette/Inventory.md"
   ]
 }
