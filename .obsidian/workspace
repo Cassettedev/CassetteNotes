@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Docs/STEM/Vim.md",
+            "file": "Wiki/Humanities/Philosophy/Philosphy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Docs/STEM/Vim.md",
+                "file": "Wiki/Humanities/Philosophy/Philosphy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
+    "Wiki/Humanities/Philosophy/Philosphy.md",
+    "Wiki/Adulting/Communication/Communication.md",
     "Wiki/Docs/STEM/Vim.md",
     "Wiki/Docs/STEM/Git.md",
     "Cassette/Library.md",
@@ -95,8 +97,6 @@
     "Wiki/STEM/Computer_Science/Computer_Science.md",
     "Wiki/Health/Sleep/Sleep.md",
     "Wiki/STEM/STEM.md",
-    "Blog/Blog.md",
-    "Wiki/Humanities/Philosophy/Philosphy.md",
-    "Wiki/Humanities/The_Arts/The_Arts.md"
+    "Blog/Blog.md"
   ]
 }
