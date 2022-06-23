@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Humanities/Philosophy/Philosphy.md",
+            "file": "Wiki/Humanities/Philosophy/Philosophy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Humanities/Philosophy/Philosphy.md",
+                "file": "Wiki/Humanities/Philosophy/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
-    "Wiki/Humanities/Philosophy/Philosphy.md",
+    "Wiki/Humanities/Philosophy/Philosophy.md",
     "Wiki/Adulting/Communication/Communication.md",
     "Wiki/Docs/STEM/Vim.md",
     "Wiki/Docs/STEM/Git.md",
