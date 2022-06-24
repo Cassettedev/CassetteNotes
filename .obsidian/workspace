@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiki/Docs/STEM/Pico-8.md",
+            "file": "LOG.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Docs/STEM/Pico-8.md",
+                "file": "LOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
+    "LOG.md",
     "Wiki/Docs/STEM/Pico-8.md",
     "images/pico9-min.jpg",
     "Wiki/Docs/STEM/Javascript.md",
@@ -96,7 +97,6 @@
     "Wiki/STEM/Computer_Science/Computer_Science.md",
     "Wiki/STEM/STEM.md",
     "Wiki/Humanities/Humanities.md",
-    "Wiki/Humanities/The_Arts/The_Arts.md",
-    "Wiki/Humanities/The_Arts/Writing/Writing.md"
+    "Wiki/Humanities/The_Arts/The_Arts.md"
   ]
 }
