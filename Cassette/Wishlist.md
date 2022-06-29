@@ -36,7 +36,8 @@ Thermometer
 
 Painting equipment and Acrylic paints
 
-### Books
+## Books
+### Fiction
 Dracula - Bram Stoker
 
 Powers of Darkness: The Lost Version of Dracula - some Icelandic dude lmao
@@ -45,9 +46,16 @@ Carmilla - Sheridan Le Fanu (the og Gothic vampire book, made before Dracula(lot
 
 The Dispossessed - Ursula K. Le Guin
 
-Revolutionary Suicide - HUEY P. NEWTON
+Frankenstein - Mary Shelley
 
-Anti-Oedipus - Deleuze and Guattari
+Solaris - Stanisław Lem
+
+### Non-Fiction
+The Communist Manifesto - Karl Marx
+
+Kaptial - Karl Marx
+
+The Conquest of Bread - Peter Kropotkin
 
 Figure Drawing For All It's Worth - Andrew Loomis
 
@@ -55,8 +63,4 @@ Figure Drawing Design And Invention - Michael Hampton
 
 Drawing The Head And Hands - Andrew Loomis
 
-Frankenstein - Mary Shelley
-
-Solaris - Stanisław Lem
-
-Inventing Reality: The Politics of News Media - Michael Parenti
+The C Programming Language - Brian Kernighan, Dennis Ritchie

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LOG.md",
+            "file": "Cassette/Wishlist.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LOG.md",
+                "file": "Cassette/Wishlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
+    "Cassette/Wishlist.md",
+    "Cassette/To_Consume.md",
     "LOG.md",
+    "Wiki/Docs/STEM/C.md",
     "Wiki/Docs/STEM/Pico-8.md",
     "images/pico9-min.jpg",
     "Wiki/Docs/STEM/Javascript.md",
     "Wiki/Docs/STEM/Git.md",
-    "Wiki/Docs/STEM/C.md",
     "Wiki/STEM/Computer_Science/Computer_Science.md",
-    "Wiki/STEM/STEM.md",
-    "Wiki/Humanities/Humanities.md",
-    "Wiki/Humanities/The_Arts/The_Arts.md"
+    "Wiki/STEM/STEM.md"
   ]
 }
