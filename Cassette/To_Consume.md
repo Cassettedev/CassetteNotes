@@ -123,6 +123,8 @@ The Conquest of Bread - Peter Kropotkin
 
 Klara and the Sun - Kazuo Ishiguro
 
+Computer Systems: A Programmer's Perspective, 3 Edition - David and Bryant, Randal O'Hallaron
+
 FROM XXIIV:
 -   **Le Matin Des Magiciens**: L. Pauwels & J. Bergier. 1960
 -   **Le Città Invisibili**: Italo Calvino. 1972
