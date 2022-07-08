@@ -1,8 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
 # The Cassette Store
 The Cassette Store is the website of internet user [[Cassette]]. It is intended to be used as a blog, wiki, and personal hub. 
 

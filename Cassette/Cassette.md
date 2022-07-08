@@ -1,8 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
 # Cassette is an Internet persona
 Cassette is the name given to the internet identity of real life person [REDACTED].  
 

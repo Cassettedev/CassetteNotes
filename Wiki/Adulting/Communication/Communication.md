@@ -1,18 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
-[[Cookbook]]
-[[Productivity]]
-[[Communication]]
-
 # Communication is the art of transferring information
 
 # From the "Gnu Kind Communication Guidelines"

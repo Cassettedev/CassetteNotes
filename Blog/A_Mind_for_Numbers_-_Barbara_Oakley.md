@@ -1,7 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
 # A Mind for Numbers - Barbara Oakley
 #booknotes
 ### Foreword:

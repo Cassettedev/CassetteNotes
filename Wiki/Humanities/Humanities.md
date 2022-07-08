@@ -1,14 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
 # The Humanities is the study of society, culture, and humanity
 
 ### [[Philosophy]]

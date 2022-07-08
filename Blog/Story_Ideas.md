@@ -1,11 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Game_Ideas]]
-[[Story_Ideas]]
-[[Merveilles Aesthetic Investigation]]
 # A collection of ideas for stories that I might create one day
 ### Jazz Superman
 If The Batman is a grungy batman movie, Jazz Superman (name subject to change) is a fun superman movie. Jazz soundtrack, with the visual style of old 50s paintings matching the time that Superman was invented. Think Incredibles. Probably a comic
@@ -18,4 +10,7 @@ A story about a group of people; Weiss (transgener), Naive Ruby, Soft bot Jaune,
 
 ### Femboy brain molko story
 
+### Gay drug dealer mafia story
+story about 2 dudes who arew  gay and one is a maker of a rare drug. Other mafias try to take down his empire and find where he makes the drugs
 
+### Sci-Fi fantasy faster than light travel

@@ -1,14 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Inventory]]
-[[Library]]
-[[Goals]]
-[[Wishlist]]
-[[To_Consume]]
-
 # The Library holds media that I enjoy
 ### Books
 **Title - Author**

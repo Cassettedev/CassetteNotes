@@ -1,14 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Inventory]]
-[[Library]]
-[[Goals]]
-[[Wishlist]]
-[[To_Consume]]
-
 # A compilation of media I want to enjoy one day
 
 ### Movies
@@ -140,8 +129,3 @@ FROM XXIIV:
 -   **The Long Way**: Bernard Moitessier
 -   **Finite and Infinite Games**: James P. Carse
 -   **Ishmael**: Daniel Quinn. 1992
-
-
-
-
-

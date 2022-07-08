@@ -1,14 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
 # To be an Adult is to be disciplined, responsible, and reasonable
 It's as boring as it sounds, but I'm trying to make it bearable
 

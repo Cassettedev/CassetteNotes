@@ -1,21 +1,13 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
-[[C]]
-[[Git]]
-[[Javascript]]
-[[Vim]]
-
 # Vim is a text editor
+To enter a file with vim, simply type:
+```
+vim filename.fileextension
+```
+while inside the same directory as the file.
 
+## Essential keybings
+The navigation keys are:
+`h j k l` for left down up right. `i` to enter inset mode, and `a` to enter insert mode onto the next letter. use `esc` to exit insert mode. While in normal mode, enter `crtl+v` to enter Visual mode.   
 ### Installing plugins with VimPlug
 ```
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`

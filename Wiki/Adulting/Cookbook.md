@@ -1,18 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
-[[Cookbook]]
-[[Productivity]]
-[[Communication]]
-
 # The Cookbook is a collection of recipies
 
 ### Filipino Dynamite

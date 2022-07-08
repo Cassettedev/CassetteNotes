@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cassette/To_Consume.md",
+            "file": "Cassette/Wishlist.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228
   },
   "right": {
     "id": "5ecab9ac770152d2",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cassette/To_Consume.md",
+                "file": "Cassette/Wishlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
-    "Cassette/To_Consume.md",
     "Cassette/Wishlist.md",
-    "LOG.md",
-    "Wiki/Docs/STEM/C.md",
-    "Wiki/Docs/STEM/Pico-8.md",
-    "images/pico9-min.jpg",
-    "Wiki/Docs/STEM/Javascript.md",
-    "Wiki/Docs/STEM/Git.md",
-    "Wiki/STEM/Computer_Science/Computer_Science.md",
-    "Wiki/STEM/STEM.md"
+    "Cassette/To_Consume.md",
+    "Blog/worldbuildingvlogs.md",
+    "Blog/Blog_Ideas.md",
+    "Blog/Game_Ideas.md",
+    "Blog/Story_Ideas.md",
+    "Untitled.md",
+    "Blog/Blog.md",
+    "Blog/Youtube_Ideas.md",
+    "Cassette/Library.md"
   ]
 }

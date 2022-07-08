@@ -1,16 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
-[[Philosophy]]
-**[[The_Arts]]**
 # The Arts are methods of communicating and expressing ideas
 ## [[Writing]]
 Writing is the art of communicating ideas through the written word.

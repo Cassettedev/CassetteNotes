@@ -1,19 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
-[[C]]
-[[Git]]
-[[Javascript]]
-[[Vim]]
-
 # Javascript is the langauge of the web
 ### Basics
 ```

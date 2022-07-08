@@ -1,6 +1,6 @@
 [
-  "obsidian-languagetool-plugin",
   "txt-as-md-obsidian",
   "obsidian-dictionary-plugin",
-  "obsidian-orthography"
+  "obsidian-orthography",
+  "obsidian-languagetool-plugin"
 ]

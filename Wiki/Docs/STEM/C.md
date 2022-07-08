@@ -1,19 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
-[[C]]
-[[Git]]
-[[Javascript]]
-[[Vim]]
-
 # The C Programming Language
 The C Programming Language is hard
 

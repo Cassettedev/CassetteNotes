@@ -1,17 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
-**[[Philosophy]]**
-[[The_Arts]]
-
 # To be a philosopher is to have a love for wisdom
 The word "Philosophy" has roots in ancient Greece, stemming from the word "Philosophia". It is a combination of "Philos", which can mean "love", and "Sophos", which can mean "wise" or "wisdom". Literally, a lover of wisdom. 
 

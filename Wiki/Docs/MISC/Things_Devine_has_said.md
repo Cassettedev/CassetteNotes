@@ -1,14 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
 # A collection of things the Devine Lu Linvega has said
 #webnotes
 -   Write simple modular parts connected by clean interfaces.

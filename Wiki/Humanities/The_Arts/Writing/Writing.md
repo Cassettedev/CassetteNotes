@@ -1,18 +1,3 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
-[[Philosophy]]
-[[The_Arts]]
-
-**[[Writing]]**
 # Writing is the art of communicating and expressing ideas through the written word
 Utilising the written form of language, you can easily allow your ideas to be shared and understood by other people without relying on the spoken word. While extremely powerful, the caveat is that the person attempting to read your writing has to understand what you have written.
 

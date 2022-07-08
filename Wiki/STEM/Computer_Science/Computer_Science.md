@@ -1,17 +1,8 @@
-[[Home]]
-[[Cassette]]
-[[Wiki]]
-[[Blog]]
-
-[[Humanities]]
-[[STEM]]
-[[Health]]
-[[Docs]]
-[[Adulting]]
-
-[[Computer_Science]]
-
 # Computer Science is the study of computation
+
+[[Programming]]
+Programming is the art of telling the computer to do stuff
+
 # Notes on Permacomputing from XXIIVV
 ## A holistic approach to computing and sustainability inspired from permaculture.
 #webnotes
