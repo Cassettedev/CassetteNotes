@@ -22,6 +22,18 @@ A common theme through all these more "practical skills" in compared to the arts
 
 I don't want to just slap javascript libraries together and make an LED blink with an Arduino, I want to understand and use these tools on a deeper level. I'm very interested in low level programming with things like C and Assembly language, as well as graphical programming. In terms of hardware, breadboard computers really catch my eye. 
 
+##### Specific skills I like
+- Drawing
+- Painting
+- Writing, poetry, blog posts, novels, screeen, essays, etc
+- Math
+- Muisc, music theory, guitar, piano, synths and sound design
+- Programming, games, Hundred Rabbits type beat
+- Sewing, making own clothes
+- Cooking
+- Languages, french, german, russian, arabic, latin, tonki pona 
+- Handwriting, caligraphy and normal handwriting
+
 #### Become self-employed
 We are tied to the schedules of other people, the work of other people, and the lives of other people. We get up at times we don't want to (or shouldn't). We do work we don't want to, work we hate, and work that actively makes the world a worse place. Then, after all that, we talk to other people about work. "What do you do for a living?". Some people seem to be fine with this. I am not.
 

@@ -11,6 +11,7 @@ A story about a group of people; Weiss (transgener), Naive Ruby, Soft bot Jaune,
 ### Femboy brain molko story
 
 ### Gay drug dealer mafia story
-story about 2 dudes who arew  gay and one is a maker of a rare drug. Other mafias try to take down his empire and find where he makes the drugs
+Story about 2 dudes who are gay and one is a maker of a rare drug. Other mafias try to take down his empire and find where he makes the drugs
 
 ### Sci-Fi fantasy faster than light travel
+A person travels away from the earth at a speed faster than light to observe the earth/an event in the past

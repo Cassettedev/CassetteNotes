@@ -1,6 +1,8 @@
 # The wishlist is a compilation of things I want
 Different from [[To_Consume]], these are things I actually currently want in the present, as opposed to sometime in the future.
 
+fenugreek
+
 ### Tech
 
 Akko 3068B
@@ -26,28 +28,50 @@ Thermometer
 Painting equipment and Acrylic paints
 
 ## Books
+
 ### Fiction
+
+#### "Classics"
+Frankenstein - Mary Shelley
+
 Dracula - Bram Stoker
 
 Powers of Darkness: The Lost Version of Dracula - some Icelandic dude lmao
 
 Carmilla - Sheridan Le Fanu (the og Gothic vampire book, made before Dracula(lotta Dracula on my TBR lmao))
 
-The Dispossessed - Ursula K. Le Guin
+1984 - Greg On Wall
 
-Frankenstein - Mary Shelley
+Animal Farm - Greg On Wall
+
+Wuthering Heights - Emily Bronte
+
+The Picture of Dorian Grey - Oscar Wilde
+
+Fahrenheit 451 - Ray Bradbury
+
+The Lord of the Rings - J. R. R. Tolkein + The Hobbit
+
+#### Others
+The Dispossessed - Ursula K. Le Guin
 
 Solaris - Stanisław Lem
 
-## Non-Fiction
-### Politics and Philsophy
+### Non-Fiction
+
+#### Politics and Philsophy
 The Communist Manifesto - Karl Marx
 
 Kaptial - Karl Marx
 
 The Conquest of Bread - Peter Kropotkin
 
-### Art and Design
+Five Dialogues - Plato
+
+Republic - Plato
+
+Capitalist Realism: Is There No Alternative? - Mark Fisher
+#### Art and Design
 Figure Drawing For All It's Worth - Andrew Loomis
 
 Figure Drawing Design And Invention - Michael Hampton
@@ -56,10 +80,15 @@ Drawing The Head And Hands - Andrew Loomis
 
 Animated Performance: Bringing Imaginary Animal, Human and Fantasy Characters to Life - Nancy Belman# Animated Performance: Bringing Imaginary Animal, Human and Fantasy Characters to Life
 
-### Computer Science
+#### Computer Science
 The C Programming Language - Brian Kernighan, Dennis Ritchie
 
-### Math
+#### Writing
+Oxford Guide to Plain English
+
+Oxford Guide to Effective Writing and Speaking
+
+#### Math
 *beginning to end from top to bottom*
 Discrete Mathematics with Applications - Susanna S. Epp
 

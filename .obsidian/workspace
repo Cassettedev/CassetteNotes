@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cassette/Wishlist.md",
+            "file": "Blog/Story_Ideas.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cassette/Wishlist.md",
+                "file": "Blog/Story_Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
-    "Cassette/Wishlist.md",
-    "Cassette/To_Consume.md",
-    "Blog/worldbuildingvlogs.md",
-    "Blog/Blog_Ideas.md",
-    "Blog/Game_Ideas.md",
     "Blog/Story_Ideas.md",
-    "Untitled.md",
-    "Blog/Blog.md",
-    "Blog/Youtube_Ideas.md",
-    "Cassette/Library.md"
+    "Cassette/Wishlist.md",
+    "Wiki/STEM/Math/Unit Rates.md",
+    "Wiki/STEM/Math/Fractions.md",
+    "Wiki/Docs/STEM/Vim.md",
+    "Wiki/Docs/Docs.md",
+    "Wiki/Docs/STEM/C.md",
+    "Wiki/STEM/Computer_Science/Programming.md",
+    "Wiki/STEM/Computer_Science/Computer_Science.md",
+    "Blog/A_Mind_for_Numbers_-_Barbara_Oakley.md"
   ]
 }
