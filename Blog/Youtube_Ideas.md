@@ -11,3 +11,5 @@ A weekly vlog of my progress as a linux user who wants to get the most out of it
 ## Worldbuilding progress
 A series of vlogs explaining how my world works, why it exsts, how its progressing, etc.
 [[worldbuildingvlogs]]
+
+## George Orwell, socialism and anti-stalinism

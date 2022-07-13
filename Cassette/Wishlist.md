@@ -71,6 +71,7 @@ Five Dialogues - Plato
 Republic - Plato
 
 Capitalist Realism: Is There No Alternative? - Mark Fisher
+
 #### Art and Design
 Figure Drawing For All It's Worth - Andrew Loomis
 
