@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blog/Story_Ideas.md",
-            "mode": "source"
+            "file": "Blog/Becoming_A_Linux_Poweruser.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Story_Ideas.md",
+                "file": "Blog/Becoming_A_Linux_Poweruser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
-    "Blog/Story_Ideas.md",
-    "Cassette/Wishlist.md",
-    "Wiki/STEM/Math/Unit Rates.md",
-    "Wiki/STEM/Math/Fractions.md",
-    "Wiki/Docs/STEM/Vim.md",
-    "Wiki/Docs/Docs.md",
-    "Wiki/Docs/STEM/C.md",
+    "Blog/Becoming_A_Linux_Poweruser.md",
     "Wiki/STEM/Computer_Science/Programming.md",
-    "Wiki/STEM/Computer_Science/Computer_Science.md",
-    "Blog/A_Mind_for_Numbers_-_Barbara_Oakley.md"
+    "Wiki/Docs/STEM/x86_ASM.md",
+    "images/ASM_sys_exit.png",
+    "Wiki/Docs/STEM/Pico-8.md",
+    "images/ASM_registers.png",
+    "Wiki/Docs/STEM/Vim.md",
+    "Wiki/Docs/STEM/C.md",
+    "Wiki/STEM/Math/Proportional Relationships.md",
+    "Wiki/Humanities/Philosophy/Philosophy.md"
   ]
 }

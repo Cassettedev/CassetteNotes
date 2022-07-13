@@ -41,7 +41,12 @@ To divide a whole number by a fraction, it is very similar to dividing a fractio
 For example, **4 / 2/3** becomes **4/1 x 2/3** which becomes **4/1 x 3/2** which is equal to **12/2**.
 
 ## Dividing two mixed numbers
-To divide two mixed numbers, 
+To divide two mixed numbers, you first convert them to improper fractions. After that, it is the same as dividing two normal fractions.
+For example, **7 1/3 / 2 1/2** becomes **22/3 / 5/2** which then becomes **22/3 x 2/5** because you turn the second fraction into its reciprocal. The answer is **44/15**
 
 ###### Why is dividing the same as multiplying by the reciprocal?
-they are the same because
+They are the same because
+
+## Converting a mixed number into an improper fraction
+To convert a mixed number into an improper fraction, you multiply the whole number by the denominator, and then add that number onto the numerator, the denominator stays the same.
+For example, **5 2/3** becomes **17/3** because you do **5 x 3** to get **15**, and then add that onto the numerator **2** to get **17**
