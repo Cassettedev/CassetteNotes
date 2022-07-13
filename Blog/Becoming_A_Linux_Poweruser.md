@@ -47,6 +47,12 @@ It is best to practice digital minimalism, to use the internet and technology as
 - Try to stay signed out of accounts as much as possible
 - Use analouge media as much as possible. Notebooks, typewriters, offline apps, real-world entertainment, ETC.
 
+### Bigger plans
+- create own internet service, with a person protocal, radio tower transmitters
+- create own cyberdeck
+- create own os
+- create own motherboards, ICs, other peripherals
+
 ## Specific software to checkout:
 ### Distros:
 
