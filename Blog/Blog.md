@@ -1,6 +1,4 @@
 # The Blog is a collection of personal, informal non-fiction
-### [[Story_Ideas]]
-A collection of ideas for stories that I might create one day
+[[A_Mind_for_Numbers_-_Barbara_Oakley.md]]
 
-### [[Game_Ideas]]
-A collection of ideas for games that I might create one day
+[[Programming_Project_Ideas.md]]
