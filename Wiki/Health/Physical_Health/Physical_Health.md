@@ -1,7 +1,12 @@
 # Health relating to the physical body
 
-### [[Diet]]
+## [[Diet]]
 A Diet is a set of rules, guidelines, or restrictions relating to food
+
+## Eye strain
+Retina burn is caused by staring at a screen for long periods of time. You blink less, and your eyes become damaged over time.
+
+A good way to fix this is to employ the **20-20-20** rule, where ever **20 minutes** you look at something **20 feet (6 meters) away** for **20 seconds**.
 
 # Notes on health from XXIIVV
 ### health knowledge

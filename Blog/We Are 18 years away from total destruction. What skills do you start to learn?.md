@@ -1,0 +1,9 @@
+- Woodworking / Carpentry
+- Botany / Gardening / Nutrition / Knowledge of local flora and fauna
+- First Aid
+- Sewing / Clothes making
+- Shoemaking
+- Sailing
+- Celestial Navigation
+- Sign language / As many languages as possible
+- Become physicaly able, as much as possible

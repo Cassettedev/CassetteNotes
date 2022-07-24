@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blog/Becoming_A_Linux_Poweruser.md",
-            "mode": "preview"
+            "file": "Cassette/Wishlist.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Becoming_A_Linux_Poweruser.md",
+                "file": "Cassette/Wishlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "0eb4b5ae74402f2f",
   "lastOpenFiles": [
-    "Blog/Becoming_A_Linux_Poweruser.md",
-    "Wiki/STEM/Computer_Science/Programming.md",
-    "Wiki/Docs/STEM/x86_ASM.md",
-    "images/ASM_sys_exit.png",
-    "Wiki/Docs/STEM/Pico-8.md",
-    "images/ASM_registers.png",
-    "Wiki/Docs/STEM/Vim.md",
+    "Blog/Game_Ideas.md",
     "Wiki/Docs/STEM/C.md",
-    "Wiki/STEM/Math/Proportional Relationships.md",
-    "Wiki/Humanities/Philosophy/Philosophy.md"
+    "LOG.md",
+    "README.md",
+    "World/inbox.md",
+    "Blog/Programming_Projects.md",
+    "Blog/Space_SolarPunk_Story.md",
+    "Blog/We Are 18 years away from total destruction. What skills do you start to learn?.md",
+    "Blog/Story_Ideas.md",
+    "Cassette/TimeTracking.md"
   ]
 }

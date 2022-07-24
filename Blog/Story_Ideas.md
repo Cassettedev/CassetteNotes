@@ -15,3 +15,5 @@ Story about 2 dudes who are gay and one is a maker of a rare drug. Other mafias 
 
 ### Sci-Fi fantasy faster than light travel
 A person travels away from the earth at a speed faster than light to observe the earth/an event in the past
+
+### Dreams as visions, made less spiritual and more real, but retaining the surreal aspects 

@@ -1,5 +1,5 @@
 # To be an Adult is to be disciplined, responsible, and reasonable
-It's as boring as it sounds, but I'm trying to make it bearable
+Or at least thats what people think.
 
 ### [[Cookbook]]
 The cookbook is a collection of recipes

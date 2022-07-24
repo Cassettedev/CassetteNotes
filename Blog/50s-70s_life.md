@@ -1,0 +1,6 @@
+- no internet
+- no screen/gui computing
+- phone for messages and calling only
+- Do math, drawing, logic and logic gates, writing
+- skateboard
+- 

@@ -2,13 +2,15 @@
 
 ### Movies
 
-Nausicaa of the Valley of the Wind - Hayao Miyazaki
+- Nausicaa of the Valley of the Wind - Hayao Miyazaki
 
-Yokohama Kaidashi Kikou - Hitoshi Ashinano
+- Yokohama Kaidashi Kikou - Hitoshi Ashinano
 
-Drunken Dragon - Chung-Hsing Chao
+- Drunken Dragon - Chung-Hsing Chao
 
-The Social Network - David Fincher
+- The Social Network - David Fincher
+
+- Batman Returns - Tim Burton
 
 FROM XXIIVV:
 -   **Rosencrantz and Guildenstern Are Dead**: Tom Stoppard. 1990
@@ -26,93 +28,89 @@ FROM XXIIVV:
 -   **Cat Soup**: Tatsuo Satō. 2001
 -   **Black Moon**: Louis Malle. 1975
 
-Experimental movies
-
-Art house movies
-
 ### Shows
-Planetes - Makoto Yukimura
+- Planetes - Makoto Yukimura
 
-Serial Experiments Lain
+- Serial Experiments Lain
+
+- Ergo Proxy 
 
 ### Books
-Dracula - Bram Stoker
+- Dracula - Bram Stoker
 
-Powers of Darkness: The Lost Version of Dracula - some Icelandic dude lmao
+- Powers of Darkness: The Lost Version of Dracula - some Icelandic dude lmao
 
-Carmilla - Sheridan Le Fanu (the og Gothic vampire book, made before Dracula(lotta Dracula on my TBR lmao))
+- Carmilla - Sheridan Le Fanu (the og Gothic vampire book, made before Dracula(lotta Dracula on my TBR lmao))
 
-The Dispossessed - Ursula K. Le Guin
+- The Dispossessed - Ursula K. Le Guin
 
-The C Programming Language - Brian Kernighan, Dennis Ritchie
+- The C Programming Language - Brian Kernighan, Dennis Ritchie
 
-Anti-Oedipus - Deleuze and Guattari
+- Anti-Oedipus - Deleuze and Guattari
 
-Revolutionary Suicide - HUEY P. NEWTON
+- Revolutionary Suicide - HUEY P. NEWTON
 
-Figure Drawing For All It's Worth - Andrew Loomis
+- Figure Drawing For All It's Worth - Andrew Loomis
 
-Figure Drawing Design And Invention - Michael Hampton
+- Figure Drawing Design And Invention - Michael Hampton
 
-Drawing The Head And Hands - Andrew Loomis
+- Drawing The Head And Hands - Andrew Loomis
 
-Frankenstein - Mary Shelley
+- Solaris - Stanisław Lem
 
-Solaris - Stanisław Lem
+- Ways of Being - James Bridle
 
-Ways of Being - James Bridle
+- The Design of Everyday Things - Don Norman
 
-The Design of Everyday Things - Don Norman
+- A Philosophy of Software Design, 2nd Edition - John Ousterhout
 
-A Philosophy of Software Design, 2nd Edition - John Ousterhout
+- Busy Doing Nothing - Rekka Bellum, Devine Lu Linvega
 
-Busy Doing Nothing - Rekka Bellum, Devine Lu Linvega
+- Zen in the Art of Writing - Ray Bradbury
 
-Zen in the Art of Writing - Ray Bradbury
+- Master of Five Excellences - Cheng Man-Ching
 
-Master of Five Excellences - Cheng Man-Ching
+- Inventing Reality: The Politics of News Media - Michael Parenti
 
-Inventing Reality: The Politics of News Media - Michael Parenti
+- Meditations - Marcus Aurelius
 
-Meditations - Marcus Aurelius
+- The Trial and Death of Socrates - Plato
 
-The Trial and Death of Socrates - Plato
+- The Divine Comedy - Dante Alighieri (the hollanders translation)
 
-The Divine Comedy - Dante Alighieri (the hollanders translation)
+- The Tale of Genji - Murasaki Shikibu
 
-The Tale of Genji - Murasaki Shikibu
+- Beowulf - ?????
 
-Beowulf - ?????
+- Ikigai: The Japanese Secret to a Long and Happy Life - Gracia and Miralles
 
-Ikigai: The Japanese Secret to a Long and Happy Life - Gracia and Miralles
+- The Ikigai Journey: Find Your Purpose the Japanese Way - Gracia and Miralles
 
-The Ikigai Journey: Find Your Purpose the Japanese Way - Gracia and Miralles
+- The Power of Habit- Charles Duhigg
 
-The Power of Habit- Charles Duhigg
+- The Geography of Thought - Richard E. Nisbett
 
-The Geography of Thought - Richard E. Nisbett
+- Writing and Script: A Very Short Introduction - W. Andrew Robbinson
 
-Writing and Script: A Very Short Introduction - W. Andrew Robbinson
+- The Symbol Detective: How to Decipher Mystical Motifs And Know Where to Find Them - Tony Allan
 
-The Symbol Detective: How to Decipher Mystical Motifs And Know Where to Find Them - Tony Allan
+- Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives - James H. Fowler and Nicholas Christakis
 
-Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives - James H. Fowler and Nicholas Christakis
+- Imagist Poetry - Peter Jones
 
-Imagist Poetry - Peter Jones
+- Draft No. 4 - John McPhee
 
-Draft No. 4 - John McPhee
+- Oxford Guide to Plain English - Martin Cutts
 
-Oxford Guide to Plain English - Martin Cutts
+- The Communist Manifesto - Karl Marx
 
-The Communist Manifesto - Karl Marx
+- Kaptial - Karl Marx
 
-Kaptial - Karl Marx
+- The Conquest of Bread - Peter Kropotkin
 
-The Conquest of Bread - Peter Kropotkin
+- Klara and the Sun - Kazuo Ishiguro
 
-Klara and the Sun - Kazuo Ishiguro
-
-Computer Systems: A Programmer's Perspective, 3 Edition - David and Bryant, Randal O'Hallaron
+- Computer Systems: A Programmer's Perspective, 3 Edition - David and Bryant, Randal O'Hallaron
 
 FROM XXIIV:
 -   **Le Matin Des Magiciens**: L. Pauwels & J. Bergier. 1960
@@ -129,3 +127,6 @@ FROM XXIIV:
 -   **The Long Way**: Bernard Moitessier
 -   **Finite and Infinite Games**: James P. Carse
 -   **Ishmael**: Daniel Quinn. 1992
+
+### Games
+- Disco Elysium - ZA/UM

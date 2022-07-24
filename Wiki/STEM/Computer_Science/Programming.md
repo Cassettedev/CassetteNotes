@@ -65,3 +65,19 @@ Which would output:
 19
 ```
 Notice the 'return' statment at the end of each function, and the "num" in the parenthesies. These are called Return statments and Arguments respectivly.
+
+```
+— Prototype before polishing. Get it working before optimizing it.
+
+— Separate policy from mechanism; separate interfaces from engines.
+
+— Write simple modular parts connected by clean interfaces.
+
+— Design programs to be connected to other programs.
+
+— Write programs to write programs when you can.
+
+— When a program has nothing surprising to say, it should say nothing.
+
+— When a program must fail, it should fail noisily and as soon as possible.
+```

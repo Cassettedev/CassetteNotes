@@ -6,7 +6,7 @@ To have "wisdom" or to be "wise" is more than knowing stuff. To be wise is to be
 In its earliest uses, Philosophy was used to roughly mean "the study of anything". Ancient Greek philosophers studied math, physics, poetry, music, politics, and many other subjects. As academia developed and the concept of science and [[STEM]] was created, philosophy began to be defined as "thinking about questions". A definition that still holds true today.
 
 ## Branches of philosophy
-There are three main branches of philosophy. These are categories that questions and schools of thought fall into.
+There are three main branches of philosophy, with two subsections in **value theory**. These are categories that questions and schools of thought fall into.
 
 The three branches are:
 
@@ -14,8 +14,11 @@ The three branches are:
 | -------------- | ----------|
 | Meta physics | The study of reality and the nature of reality |
 | Epistemology | The study of knowledge, what is "true" and what is not |
-| Value Theory | Divided into two sub-sections. Ethics and Aesthetics |
+| Value Theory | Divided into two subsections. Ethics and Aesthetics |
 | Ethics | The study of human conflict, of what is "right" and "wrong" |
 | Aesthetics | The study of beauty and art |
 
+
+### Logic 
+Logic is the main tool of philosophy. It assists in making arguments and giving reason. A **Fallacy** is when an argument is unreasonable or unsound.
 

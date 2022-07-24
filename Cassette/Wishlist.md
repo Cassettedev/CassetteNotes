@@ -23,9 +23,17 @@ small pencil case
 
 LightPhone
 
+Mudita Pure
+
 Thermometer
 
 Painting equipment and Acrylic paints
+
+RG351p
+
+Arduboy
+
+Sony A6400
 
 ## Books
 
@@ -91,6 +99,9 @@ Oxford Guide to Effective Writing and Speaking
 
 #### Math
 *beginning to end from top to bottom*
+
+How to Solve It - George Pólya
+
 Discrete Mathematics with Applications - Susanna S. Epp
 
 Discrete Mathematical Structures - Kolman, Busby and Ross

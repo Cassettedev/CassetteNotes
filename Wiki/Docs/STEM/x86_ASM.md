@@ -194,3 +194,63 @@ The `_start` label is essential. When the program is compiled and executed, it i
 
 #### Global
 `global` is used when you want the linker to know the address of a label. The object file, `.o`, will have a link to every label declared `global`. Declaring `_start` as `global` is essential for the code to be linked properly.
+
+### Flags
+Flags are like registers, but they only hold 1 bit representing True or False. 
+
+### Pointers 
+Pointers are registers that hold data, which holds the memory address of some other data. Not its value, its address.
+
+### Control flow
+The control flow is the order that the code runs in. Most code runs from top to bottom. Typically, in x86 assembly, there is a pointer called the `rip register` that points to the next address to be exectuted in the control flow. The value this pointer is pointing too, the next address, is changed after each line.
+
+### Jumps
+The typical format of jumps is `jmp label`. This loads the values of "`label`" into the `rip register`, changing the control flow to go wherever the label is.
+
+### Comparisons
+Comparisons allow programs to do different things based on certain conditions. These comparisons are done on registers. Comparisons often look something like:
+```
+cmp rax, 23
+```
+or
+```
+cmp rax, rbx
+```
+
+Once a comparison is done, a certain flag is set depending on the outcome of the comparison. For example, if one value is greater than the other, if `a = b`, then the ZF flag is set to 1, meaning it has been set. Conversely, it is set to 0 if `a =/= b`.
+
+### Conditional Jump
+After a comparison is made, a jump can be performed based on the result of the comparison. This is a Conditional Jump. They are based on the status of flags. They are written just like normal jumps, but `jmp` is replaced with the specific command for the conditional jump you would like to make.
+
+![[ASM_jmps.png]]
+
+For example, this code:
+```
+cmp rax, 23
+je _doThis
+```
+will jump to the address of the label `_doThis` *if* the value of the rax register equals 23.
+
+For another example, this code:
+```
+cmp, rax rbx
+jg _doThis
+```
+will jump to the address of the label `_doThis` *if* the value in the rax register is greater than the value in the rbx register.
+
+### Registers as Pointers
+The default registers can be treated as pointers. This is done by surrounding the register name with square brackets. `rax` becomes `[rax]`.
+For example:
+```
+mov rax, rbx
+```
+loads the value *held in* the `rbx` register into the `rax` register, whereas:
+```
+mov rax, [rbx]
+```
+loads the value *the `rbx` register is pointing to* into the `rax` register.
+
+### Calls
+Calls and jumps are almost the same.
+
+When `call` is used, the position the call was made at in code can be returned to using `ret`.
