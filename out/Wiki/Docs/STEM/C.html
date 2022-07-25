@@ -45,16 +45,9 @@
     </head>
     <body class="vscode-body vscode-light">
         <h1 id="todo">TODO</h1>
-<p>Pointers maybe???????
-User input
-Arrays
-2d Arrays
-Functions
-If
-Switch
-While
-For
-Structs</p>
+<p>2d Arrays
+Structs
+Continue functions</p>
 <h1 id="the-c-programming-language">The C Programming Language</h1>
 <p>The C Programming Language is hard. It requires you to handle your own memory, and it comes with few features built in</p>
 <h2 id="header-files">Header files</h2>
@@ -109,6 +102,11 @@ Structs</p>
 </ul>
 <pre><code class="language-C"><div><span class="hljs-keyword">long</span> <span class="hljs-keyword">double</span> gpa2 = <span class="hljs-number">3.5</span>;
 </div></code></pre>
+<ul>
+<li>boolean: a 1 byte &quot;true or false&quot; value</li>
+</ul>
+<pre><code class="language-C"><div><span class="hljs-keyword">bool</span> x = <span class="hljs-literal">true</span>;
+</div></code></pre>
 <p>Variables can be created and assigned later in the code.</p>
 <pre><code class="language-C"><div><span class="hljs-keyword">int</span> age;
 age = <span class="hljs-number">34</span>;
@@ -117,6 +115,9 @@ age = <span class="hljs-number">34</span>;
 <pre><code class="language-C"><div><span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> AGE = <span class="hljs-number">34</span>;
 </div></code></pre>
 <p>making the variable all caps is not required, only convention.</p>
+<p>Arrays can be made by adding <code>[]</code> onto the end of the variable name. For example:</p>
+<pre><code class="language-C"><div><span class="hljs-keyword">char</span> b[] = <span class="hljs-string">&quot;name&quot;</span>;
+</div></code></pre>
 <p>Variables can be printed in <code>printf()</code> by subsituting the variable with these:</p>
 <ul>
 <li><code>%c</code> character</li>
@@ -134,11 +135,30 @@ age = <span class="hljs-number">34</span>;
 <p>for example:</p>
 <pre><code class="language-C"><div><span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;%s, your grade is %c \n&quot;</span>, name, testGrade);
 </div></code></pre>
+<h2 id="escape-sequences">Escape sequences</h2>
+<p>Escape sequences are things you can use within strings to manipulate the format or print characters that could be confused for operators, such as <code>&quot;</code></p>
+<ul>
+<li>\n = newline</li>
+<li>\t = tab</li>
+<li>&quot; = double quote</li>
+<li>' = single quote</li>
+<li>\ = backslash</li>
+</ul>
 <h2 id="casting">Casting</h2>
 <p>Casting is converting a datatype of one variable to another. For example:</p>
 <pre><code class="language-C"><div><span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;%d \n&quot;</span>, (<span class="hljs-keyword">int</span>)<span class="hljs-number">3.14</span>);
 <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;%f \n&quot;</span>, (<span class="hljs-keyword">double</span>)<span class="hljs-number">3</span> / <span class="hljs-number">2</span>);
 </div></code></pre>
+<h2 id="user-input">User input</h2>
+<p>You can get input from the user with the <code>scanf()</code> function. For example:</p>
+<pre><code class="language-C"><div><span class="hljs-keyword">int</span> age;
+
+<span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;how old are you?&quot;</span>);
+<span class="hljs-built_in">scanf</span>(<span class="hljs-string">&quot;%d&quot;</span>, &amp;age);
+
+<span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;you are %d years old&quot;</span>, age);
+</div></code></pre>
+<p><code>scanf()</code> will only read up to any white spaces. <code>fgets()</code> can be used to read whitespace. <code>fgets()</code> requires the name of  the varibale, the size of the input (array), and <code>stdin</code> for standard input.</p>
 <h2 id="pointers">Pointers</h2>
 <p>A pointer is just a variable that holds a memory adress. Here is a table that acts as an example:</p>
 <table>
@@ -296,6 +316,74 @@ age = <span class="hljs-number">34</span>;
 </tr>
 </tbody>
 </table>
+<h2 id="user-input-1">User input</h2>
+<p>You can get input from the user with the <code>scanf()</code> function. For example:</p>
+<pre><code class="language-C"><div><span class="hljs-keyword">int</span> age;
+
+<span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;how old are you?&quot;</span>);
+<span class="hljs-built_in">scanf</span>(<span class="hljs-string">&quot;%d&quot;</span>, &amp;age);
+
+<span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;you are %d years old&quot;</span>, age);
+</div></code></pre>
+<p><code>scanf()</code> will only read up to any white spaces. <code>fgets()</code> can be used to read whitespace. <code>fgets()</code> requires the name of  the varibale, the size of the input (array), and <code>stdin</code> for standard input.</p>
+<h2 id="if-for-while-switch">If, For, While, Switch</h2>
+<p>An if statement is formated like:</p>
+<pre><code class="language-C"><div><span class="hljs-keyword">int</span> age = <span class="hljs-number">20</span>;
+
+<span class="hljs-keyword">if</span>(age &gt;= <span class="hljs-number">18</span>){
+	your code goes here;
+}
+</div></code></pre>
+<p>A For loop is formatted like:</p>
+<pre><code class="language-C"><div><span class="hljs-keyword">for</span>(<span class="hljs-keyword">int</span> i = <span class="hljs-number">1</span>; i &lt;= <span class="hljs-number">10</span>; <span class="hljs-number">1</span>++)
+{
+	<span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;%d&quot;</span>)
+}
+</div></code></pre>
+<p>A While loop is formatted like:</p>
+<pre><code class="language-C"><div><span class="hljs-keyword">int</span> index = <span class="hljs-number">1</span>;
+<span class="hljs-keyword">while</span>(index &lt;= <span class="hljs-number">5</span>){
+	<span class="hljs-built_in">printf</span>(%d\n<span class="hljs-string">&quot;, index);
+	index++;
+}
+</span></div></code></pre>
+<p>A Switch statement can be formattted like:</p>
+<pre><code class="language-C"><div><span class="hljs-keyword">char</span> myGrade = <span class="hljs-string">&#x27;A&#x27;</span>;
+<span class="hljs-keyword">switch</span>(myGrade){
+	<span class="hljs-keyword">case</span> <span class="hljs-string">&#x27;A&#x27;</span>:
+		<span class="hljs-keyword">do</span> stuff;
+		<span class="hljs-keyword">break</span>;
+	<span class="hljs-keyword">case</span> <span class="hljs-string">&#x27;F&#x27;</span>:
+		<span class="hljs-keyword">do</span> stuff;
+		<span class="hljs-keyword">break</span>;
+	<span class="hljs-keyword">default</span>:
+		<span class="hljs-keyword">do</span> stuff;
+</div></code></pre>
+<h2 id="functions">Functions</h2>
+<p>Functions are formatted like:</p>
+<pre><code class="language-C"><div><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">addNumbers</span><span class="hljs-params">(<span class="hljs-keyword">int</span> num1, <span class="hljs-keyword">int</span> num2)</span></span>{
+	<span class="hljs-keyword">return</span> num1 + num2
+}
+</div></code></pre>
+<h2 id="structs">Structs</h2>
+<p>A Struct is a data structure that can store several different data types. They are formatted like:</p>
+<pre><code class="language-C"><div><span class="hljs-class"><span class="hljs-keyword">struct</span> <span class="hljs-title">Student</span>{</span>
+	<span class="hljs-keyword">char</span> name[<span class="hljs-number">50</span>];
+	<span class="hljs-keyword">char</span> major[<span class="hljs-number">50</span>];
+	<span class="hljs-keyword">int</span> age;
+	<span class="hljs-keyword">double</span> gpa;
+};
+
+<span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>{
+	<span class="hljs-class"><span class="hljs-keyword">struct</span> <span class="hljs-title">Student</span> <span class="hljs-title">student1</span>;</span>
+	student1.age = <span class="hljs-number">17</span>;
+	student1.gpa = <span class="hljs-number">3.2</span>;
+	<span class="hljs-built_in">strcpy</span>(student1.name, <span class="hljs-string">&quot;Greg&quot;</span>);
+	<span class="hljs-built_in">strcpy</span>(student1.major, <span class="hljs-string">&quot;Art&quot;</span>);
+	
+	<span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;%f&quot;</span>, student1.gpa);
+	<span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;
+</div></code></pre>
 <h2 id="compiling">Compiling</h2>
 <p>To compile a C program using GCC, use:
 <code>gcc file.c -o filename</code>
