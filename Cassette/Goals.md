@@ -13,6 +13,9 @@ Some languages might be;
 * German
 * Latin
 * Italian
+* Esperanto
+* Toki Pona
+* Láadan
 
 ##### Become a competent in [The_Arts](wiki/humanities/../../../Wiki/Humanities/The_Arts/The_Arts.md)
 To be component in The Arts is to have a level of mastery that allows me to create anything I want with little to no hesitation, confident that I will have the skills to create it, if not learn how to create it extremely quickly.
@@ -56,3 +59,4 @@ This, out of all of my goals, is both the hardest and the one I want the most. T
 - Use a C64, Apple II, or some other old pc
 - Sail on a tall ship
 - live on a sailboat
+- set up personal radio channel to tune into

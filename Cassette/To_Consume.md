@@ -36,27 +36,12 @@ FROM XXIIVV:
 - Ergo Proxy 
 
 ### Books
-- Dracula - Bram Stoker
-
-- Powers of Darkness: The Lost Version of Dracula - some Icelandic dude lmao
-
-- Carmilla - Sheridan Le Fanu (the og Gothic vampire book, made before Dracula(lotta Dracula on my TBR lmao))
-
-- The Dispossessed - Ursula K. Le Guin
-
-- The C Programming Language - Brian Kernighan, Dennis Ritchie
-
-- Anti-Oedipus - Deleuze and Guattari
-
-- Revolutionary Suicide - HUEY P. NEWTON
 
 - Figure Drawing For All It's Worth - Andrew Loomis
 
 - Figure Drawing Design And Invention - Michael Hampton
 
 - Drawing The Head And Hands - Andrew Loomis
-
-- Solaris - Stanisław Lem
 
 - Ways of Being - James Bridle
 
@@ -68,19 +53,11 @@ FROM XXIIVV:
 
 - Zen in the Art of Writing - Ray Bradbury
 
-- Master of Five Excellences - Cheng Man-Ching
+
 
 - Inventing Reality: The Politics of News Media - Michael Parenti
 
-- Meditations - Marcus Aurelius
 
-- The Trial and Death of Socrates - Plato
-
-- The Divine Comedy - Dante Alighieri (the hollanders translation)
-
-- The Tale of Genji - Murasaki Shikibu
-
-- Beowulf - ?????
 
 - Ikigai: The Japanese Secret to a Long and Happy Life - Gracia and Miralles
 
@@ -101,12 +78,6 @@ FROM XXIIVV:
 - Draft No. 4 - John McPhee
 
 - Oxford Guide to Plain English - Martin Cutts
-
-- The Communist Manifesto - Karl Marx
-
-- Kaptial - Karl Marx
-
-- The Conquest of Bread - Peter Kropotkin
 
 - Klara and the Sun - Kazuo Ishiguro
 

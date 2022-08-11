@@ -15,5 +15,5 @@ Here you will find the blog
 ### [License]
 Here will you find the license to the webstite
 
-### [LOG]
+### [LOG](LOG.md)
 The log for the site

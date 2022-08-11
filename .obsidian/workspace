@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a25f09e7fd2e367d",
+    "type": "split",
+    "children": [
+      {
+        "id": "98e21113a00a0134",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal_Projects/Retro_life.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9b5d2f1e148a6e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f9ec662050fff6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ac6a01b0e3074b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e3ad29dfae312a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57621f6e06b51cf4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303
+  },
+  "right": {
+    "id": "4d558c4ab1fede83",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b181a354d87f536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b26421e8495960",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal_Projects/Retro_life.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd5d6532b5792fa9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal_Projects/Retro_life.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da913dc02f1554e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f0fb3d2b8b2c8c8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal_Projects/Retro_life.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "98e21113a00a0134",
+  "lastOpenFiles": [
+    "Cassette/Wishlist.md",
+    "Cassette/To_Consume.md",
+    "Cassette/TimeTracking.md",
+    "Blog/Blog.md",
+    "Book_notes/A_Mind_for_Numbers_-_Barbara_Oakley.md",
+    "Cassette/2022_YIR/2022_Review.md",
+    "Cassette/Cassette.md",
+    "Cassette/Dictionary.md",
+    "Cassette/Inventory.md",
+    "Cassette/Library.md"
+  ]
+}

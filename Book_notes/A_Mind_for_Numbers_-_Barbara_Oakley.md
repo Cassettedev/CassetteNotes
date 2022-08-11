@@ -82,11 +82,4 @@ There are two main modes of thinking, Focused Mode and Diffused Mode. These mode
 #### CHAPTER 3 SUMMERY:
 Chapter 3 talked about methods and the importance of switching between Focused and Diffuse Modes of thinking. It touched on the main two types of memory that we have, and it also talked about the importance and effectiveness of sleep in the learning process.
 =======
->>>>>>> 1473465ea734f4894c0e19037ec72fff44199b00
->>>>>>> c072d1c971648e82b4e1863fd269f067027e9395
 
-
-
-
-
-	

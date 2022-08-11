@@ -35,59 +35,61 @@ Arduboy
 
 Sony A6400
 
+Staedtler Mars Lead Pointer Tub
+
 ## Books
 
 ### Fiction
 
 #### "Classics"
-Frankenstein - Mary Shelley
-
-Dracula - Bram Stoker
-
-Powers of Darkness: The Lost Version of Dracula - some Icelandic dude lmao
-
-Carmilla - Sheridan Le Fanu (the og Gothic vampire book, made before Dracula(lotta Dracula on my TBR lmao))
-
-1984 - Greg On Wall
-
-Animal Farm - Greg On Wall
-
-Wuthering Heights - Emily Bronte
-
-The Picture of Dorian Grey - Oscar Wilde
-
-Fahrenheit 451 - Ray Bradbury
-
-The Lord of the Rings - J. R. R. Tolkein + The Hobbit
+- Frankenstein - Mary Shelley
+- Dracula - Bram Stoker
+- Powers of Darkness: The Lost Version of Dracula - some Icelandic dude lmao
+- Carmilla - Sheridan Le Fanu (the og Gothic vampire book, made before Dracula(lotta Dracula on my TBR lmao))
+- 1984 - Greg On Wall
+- Animal Farm - Greg On Wall
+- Wuthering Heights - Emily Bronte
+- The Picture of Dorian Grey - Oscar Wilde
+- Fahrenheit 451 - Ray Bradbury
+- The Lord of the Rings - J. R. R. Tolkein + The Hobbit
+- The Tale of Genji - Murasaki Shikibu
+- Beowulf - ?????
 
 #### Others
-The Dispossessed - Ursula K. Le Guin
+- The Dispossessed - Ursula K. Le Guin
+- Solaris - Stanisław Lem
 
-Solaris - Stanisław Lem
+#### Comics/manga
+- Berserk
+- Akira
 
 ### Non-Fiction
 
 #### Politics and Philsophy
-The Communist Manifesto - Karl Marx
-
-Kaptial - Karl Marx
-
-The Conquest of Bread - Peter Kropotkin
-
-Five Dialogues - Plato
-
-Republic - Plato
-
-Capitalist Realism: Is There No Alternative? - Mark Fisher
+- The Communist Manifesto - Karl Marx
+- Kaptial - Karl Marx
+- The Conquest of Bread - Peter Kropotkin
+- Five Dialogues - Plato
+- Republic - Plato
+- Capitalist Realism: Is There No Alternative? - Mark Fisher
+- Meditations - Marcus Aurelius
+- The Trial and Death of Socrates - Plato
+- The Divine Comedy - Dante Alighieri (the hollanders translation)
+- Master of Five Excellences - Cheng Man-Ching
+- Anti-Oedipus - Deleuze and Guattari
+- Revolutionary Suicide - HUEY P. NEWTON
 
 #### Art and Design
-Figure Drawing For All It's Worth - Andrew Loomis
-
-Figure Drawing Design And Invention - Michael Hampton
-
-Drawing The Head And Hands - Andrew Loomis
-
-Animated Performance: Bringing Imaginary Animal, Human and Fantasy Characters to Life - Nancy Belman# Animated Performance: Bringing Imaginary Animal, Human and Fantasy Characters to Life
+- Figure Drawing For All It's Worth - Andrew Loomis
+- Figure Drawing Design And Invention - Michael Hampton
+- Drawing The Head And Hands - Andrew Loomis
+- Constructive Anatomy - George Bridgman
+- Animated Performance: Bringing Imaginary Animal, Human and Fantasy Characters to Life - Nancy Belman
+- Lessons for Michealgelo - Micheal Burban
+- Drawing Lessons from the great masters - Robert Beverly Hale
+- Alla Prima - Richard Schmid
+- any book by James Gurney
+- Drawing Manual - Glenn Vilppu
 
 #### Computer Science
 The C Programming Language - Brian Kernighan, Dennis Ritchie
