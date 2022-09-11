@@ -6,10 +6,20 @@ Find a way to use the terminal for as much as possible:
 * Cmus: Music player
 * Newsboat: RSS feed
 * RTorrent: Torrents
+
+## Currently in use:
+* Cmus
+* Newsboat
+* nnn
+* htop
+* neofetch
+* nvim
+* git
+* i3wm
+
 ## ToFind
 * IRC chat (must be possible) ((Weedchat?))
 * video player
-* RSS feed
 
 youtube-dl - is a command-line utility for downloading videos or extracting audio files from streaming websites such as YouTube, Dailymotion, and Vimeo.
 
