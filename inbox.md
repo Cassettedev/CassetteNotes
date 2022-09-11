@@ -75,3 +75,11 @@ The biggest adjustment to my lifestyle, that I made recently, that yeilded the b
 ---
 
 https://news.harvard.edu/gazette/story/2019/08/like-humans-crows-are-more-optimistic-after-making-tools-to-solve-a-problem/
+
+i feel like a lot of the time "capitalism" is more of a stand-in for civilization or empire with the way people usually talk about it in everyday speech. but that also obscures how old many of these dynamics are. you can often say quite similar things about mercantilism, feudalism, the economies of ancient rome, china, egypt, or the mediterranean bronze age societies. and probably many more. the ascendancy of capitalism is quite recent and depends on very specific ideas about joint ownership with shares and legal arrangements, but hierarchical arrangements (often but not always linked more to families and kinship) with many of the same dominating effects are far older.
+
+placing all of this on "capitalism" makes it seem as if you can swap out a "system" which is not particularly old with something else which is "better". but i think the "problem" is much more daunting than that because these impulses are so woven into culture and everyday attitudes which makes these dominating patterns even more enduring.
+
+this kind of talk of "economic models" and "production" in the abstract also feels disempowering to me in how it places an emphasis on things i have no control over and de-emphasizes or disparages what i can actually do because it "won't make a difference". but living in different ways and relating to others how i want, inside or outside of prevailing social attitudes does make a difference, to me. and it makes a difference to the people i choose to share my life with, all of us living under the shade of giant lumbering monsters called capitalism or empire or civilization. i will be happy for these beasts to die, but i don't feel any obligation to make that my project or worry that i can never truly be free or happy while they continue to roam. i feel like my life would not be very different either way.
+
+curl wttr.in/"<Melbourne>"

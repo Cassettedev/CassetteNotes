@@ -71,7 +71,7 @@ a = bV / c
 
 What is being done to V? It is being multiplied by b. Do the opposite: divide by b.
 
-a**/b** = (bV / c) **/b**
+a/b = (bV / c) /b
 
 This cancels the effect of the b on the right hand side, leaving you with:
 

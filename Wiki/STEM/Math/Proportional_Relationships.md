@@ -5,7 +5,7 @@ A Proportional Relationship is a relationship between two values where their rat
 | 1 | 2 | 1 : 2 | 2 |
 | 3 | 6 | 3 : 6 | 2 |
 | 12 | 24 | 12 : 24 | 2 |
-In this example, the ratio is always **x * y **. **3 * 2 = 6 **. Etc
+In this example, the ratio is always *x * y*. So for example; *3 * 2 = 6*. Etc
 
 ## Constant of Proportionality 
 The Constant of Proportionality refers to the constant variable of the ratio between the two numbers. In the above example, the constant would be 2. The constant is often represented as **k**.

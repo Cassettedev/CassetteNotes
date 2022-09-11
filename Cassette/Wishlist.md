@@ -37,6 +37,8 @@ Sony A6400
 
 Staedtler Mars Lead Pointer Tub
 
+Logitech C920S HD
+
 ## Books
 
 ### Fiction
@@ -92,94 +94,94 @@ Staedtler Mars Lead Pointer Tub
 - Drawing Manual - Glenn Vilppu
 
 #### Computer Science
-The C Programming Language - Brian Kernighan, Dennis Ritchie
+- The C Programming Language - Brian Kernighan, Dennis Ritchie
 
 #### Writing
-Oxford Guide to Plain English
+- Oxford Guide to Plain English
 
-Oxford Guide to Effective Writing and Speaking
+- Oxford Guide to Effective Writing and Speaking
 
 #### Math
 *beginning to end from top to bottom*
 
-How to Solve It - George Pólya
+- How to Solve It - George Pólya
 
-Discrete Mathematics with Applications - Susanna S. Epp
+- Discrete Mathematics with Applications - Susanna S. Epp
 
-Discrete Mathematical Structures - Kolman, Busby and Ross
+- Discrete Mathematical Structures - Kolman, Busby and Ross
 
-Mathematical Proofs, A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Plomeni, Ping Zhang
+- Mathematical Proofs, A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Plomeni, Ping Zhang
 
-An Introduction to Abstract Mathematics - Robert J. Bond, William J. Keane
+- An Introduction to Abstract Mathematics - Robert J. Bond, William J. Keane
 
-AGS Pre-Algebra
+- AGS Pre-Algebra
 
-Fearons Pre-Algebra
+- Fearons Pre-Algebra
 
-Geometry - Jurgenen, Brown, King
+- Geometry - Jurgenen, Brown, King
 
-College Algebra - Jerome E. Kaufmann
+- College Algebra - Jerome E. Kaufmann
 
-College Algebra Essentials - Blitzer
+- College Algebra Essentials - Blitzer
 
-A Graphical Approch to Algebra & Trigonometry - Honsby, Lial, Rockswold, (try to get the instructors eddition)
+- A Graphical Approch to Algebra & Trigonometry - Honsby, Lial, Rockswold, (try to get the instructors eddition)
 
-Calculus - James Stewart
+- Calculus - James Stewart
 
-Calculus - Michael Spivak
+- Calculus - Michael Spivak
 
-Calculus made Easy - Silvanus P. Thompson
+- Calculus made Easy - Silvanus P. Thompson
 
-A First Course In Differential Equations with Modeling Applications - Dennis G. Zill
+- A First Course In Differential Equations with Modeling Applications - Dennis G. Zill
 
-Ordinary Differential Equations With Applications - Larry C. Andrews
+- Ordinary Differential Equations With Applications - Larry C. Andrews
 
-Elementary Linear Algebra - Howard Anton
+- Elementary Linear Algebra - Howard Anton
 
-Linear Algebra - Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence
+- Linear Algebra - Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence
 
-Linear Algebra - Serge Lang
+- Linear Algebra - Serge Lang
 
-Linear Algebra - Kenneth Hoffman and Ray Kunze
+- Linear Algebra - Kenneth Hoffman and Ray Kunze
 
-Finite-Dimensional Vector Spaces - Paul R. Halmos
+- Finite-Dimensional Vector Spaces - Paul R. Halmos
 
-Linear Algebra - Schaum's Outlines, Seymour Lipschutz, Marc Lipson
+- Linear Algebra - Schaum's Outlines, Seymour Lipschutz, Marc Lipson
 
-Linear Algebra and its Applications - Gilbert Strang
+- Linear Algebra and its Applications - Gilbert Strang
 
-Mathematical Statistics with Applications - Dennis D. Wackerly, William Mendenhhall III, Richard L. Scheaffer
+- Mathematical Statistics with Applications - Dennis D. Wackerly, William Mendenhhall III, Richard L. Scheaffer
 
-A First Course in Probability - Sheldon Ross
+- A First Course in Probability - Sheldon Ross
 
-Fundementals of Complex Analysis with Applications to Engineering and Science - E. B. Saff, A. D. Snider
+- Fundementals of Complex Analysis with Applications to Engineering and Science - E. B. Saff, A. D. Snider
 
-Complex Variables and Applications - James Ward Brown, Ruel V. Churchill
+- Complex Variables and Applications - James Ward Brown, Ruel V. Churchill
 
-Analysis 1 and 2 - Terence Tao
+- Analysis 1 and 2 - Terence Tao
 
-Advanced Calculus a Course in Mathematical Analysis - Patrick M. Fitzpatrick
+- Advanced Calculus a Course in Mathematical Analysis - Patrick M. Fitzpatrick
 
-Princeiples of Mathematical Analysis - Ruden
+- Princeiples of Mathematical Analysis - Ruden
 
-Elementary Analysis: The Theory of Calculus - Kenneth A. Ross
+- Elementary Analysis: The Theory of Calculus - Kenneth A. Ross
 
-Algebra - Michael Artin
+- Algebra - Michael Artin
 
-Abstract Algebra A First Course - Dan Saracino
+- Abstract Algebra A First Course - Dan Saracino
 
-Contemporary Abstract Algebra - Joseph A. Gallian
+- Contemporary Abstract Algebra - Joseph A. Gallian
 
-Introduction to Topology - Theodore W. Gamelin, Robert Everist Greene
+- Introduction to Topology - Theodore W. Gamelin, Robert Everist Greene
 
-Applied Combinatorics - Alan Tucker
+- Applied Combinatorics - Alan Tucker
 
-Naive Set Theory - Paul R. Halmos
+- Naive Set Theory - Paul R. Halmos
 
-Introductory Functional Analysis with Applications - Kreyszic
+- Introductory Functional Analysis with Applications - Kreyszic
 
-Graph Theory - Ronald Gould
+- Graph Theory - Ronald Gould
 
-Real Analysis - H. L. Royden
+- Real Analysis - H. L. Royden
 
-Real and Complex Analysis = Ruden
+- Real and Complex Analysis = Ruden

@@ -54,10 +54,6 @@ double gpa1 = 3.4;
 ```C
 long double gpa2 = 3.5;
 ```
-- boolean: a 1 byte "true or false" value
-```C
-bool x = true;
-```
 
 Variables can be created and assigned later in the code.
 ```C

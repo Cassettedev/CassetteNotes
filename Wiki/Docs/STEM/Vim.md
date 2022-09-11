@@ -8,6 +8,14 @@ while inside the same directory as the file.
 ## Essential keybings
 The navigation keys are:
 `h j k l` for left down up right. `i` to enter inset mode, and `a` to enter insert mode onto the next letter. use `esc` to exit insert mode. While in normal mode, enter `crtl+v` to enter Visual mode.   
+
+## Hybrid/Relative line numbers
+To set hybrid/relative line numbers, use this:
+```
+set number relativenumber
+set nu rnu
+```
+
 ### Installing plugins with VimPlug
 ```
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`

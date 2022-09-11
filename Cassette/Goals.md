@@ -1,8 +1,6 @@
 # Goals
 While I try not to live in the future to often, It is important to have something to be pushing towards. All of these goals do not have deadlines and do not have a stage of completion. They are things I can constantly improve and push towards.
 
-##### Get into astronomy
-
 ##### Learn a language or twenty
 I don't necessarily want to be conversationally fluent in any of these languages, rather, I want to read books and poetry, listen to songs, and watch movies in their native languages so I can have a better understanding of them.
 
