@@ -12,6 +12,8 @@
 
 - Batman Returns - Tim Burton
 
+- PROMARE - Studio Trigger
+
 FROM XXIIVV:
 -   **Rosencrantz and Guildenstern Are Dead**: Tom Stoppard. 1990
 -   **Solaris**: Steven Soderbergh. 2002

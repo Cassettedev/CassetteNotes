@@ -23,7 +23,7 @@ You can press `Shift+`` to toggle the casing under a letter.
 Use `:q` to quit, `:q!` to quit without saving, `:wq` to save and quit, `:w` to save.
 While in normal mode, enter `crtl+v` to enter Visual Mode, and `shift+v` to enter bigger Visual Mode.
 Use `Shift+$` to go to the end of the line you're on.
-
+Use `Shift+>` to indent a line or several lines in Visual Mode
 
 ## Hybrid/Relative line numbers
 To set hybrid/relative line numbers, use this:
