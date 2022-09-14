@@ -101,5 +101,3 @@ FROM XXIIV:
 -   **Finite and Infinite Games**: James P. Carse
 -   **Ishmael**: Daniel Quinn. 1992
 
-### Games
-- Disco Elysium - ZA/UM

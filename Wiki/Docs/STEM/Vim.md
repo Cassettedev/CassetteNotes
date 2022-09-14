@@ -69,4 +69,5 @@ To uninstall a plugin:
 Remove it from the .vimrc file and type:
 `:PlugClean`
 
-
+### Add spell checking
+To add spell checking, put your preferd language into your config, `set spellland=en` and then run the command `:set spell` and `:set nospell` to turn it off

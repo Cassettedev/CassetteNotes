@@ -96,6 +96,12 @@ Logitech C920S HD
 #### Computer Science
 - The C Programming Language - Brian Kernighan, Dennis Ritchie
 
+- Cracking the Coding Interview - Gayle Laakmann McDowell
+
+- The Algorithm Design Manual - Steven S. Skiena
+
+- Introduction to Algorithms - CLRS
+
 #### Writing
 - Oxford Guide to Plain English
 
