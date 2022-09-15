@@ -1,1 +1,13 @@
 curl wttr.in/"<Melbourne>"
+
+## Folder manipulation in terminal
+
+- `rm file.txt` to remove file
+- `rm ./path/to/the/file/file_1.txt` to remove file in another directory
+- `rm file_2.txt file_3.txt` to delete more than one file
+- `rm *.txt` the * is used to delete multiple files of a certain type, .txt in this case
+- `rm -d directory` to remove a directory
+- `rm -d directory1 directory2 /path/to/directory3` to remove more than one directory and in another place
+- `rm -r directory1` to remove a directory that isnt empty
+- `tree` can show the structure of the directory you're in. probably has to be installed
+
