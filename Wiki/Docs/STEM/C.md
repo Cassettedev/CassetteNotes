@@ -153,7 +153,7 @@ Let's say we then make a variable `pointer b;`. When compiled, the variable is s
 | 105 |       |
 | 106 |       |
 
-Now that we have these two variables, we can make a third variable that has the value of *the location* pointed to by `b`. In C and C++, this looks like, `int c = *b;`. `*` Is not multiplication, it can be thought of as `get the value at`. The variable `c` will be stored somewhere in memory like any other variable, `101` in this case, and stores the value `5`, the same value that is held at `104`, which is what `b` is pointing to.
+Now that we have these two variables, we can make a third variable that has the value of *the location* pointed to by `b`. In C and C++, this looks like, `int c = *b;`. `*` Is not multiplication, it can be thought of as `get the value at`. The variable `c` will be stored somewhere in memory like any other variable, `100` in this case, and stores the value `5`, the same value that is held at `104`, which is what `b` is pointing to.
 
 | address   | value |
 | --------- | ----- |
@@ -219,7 +219,7 @@ switch(myGrade){
 Functions are formatted like:
 ```C
 int addNumbers(int num1, int num2){
-	return num1 + num2
+	return num1 + num2;
 }
 ```
 
@@ -264,3 +264,10 @@ Execute:
 `./hello`
 Output:
 `Hello World`
+
+## Debugging
+You can use gdb to debug a C program, but you have to compile it correctly:
+```
+gcc -g main.c -o hello
+```
+you can then use `gdb ./hello` to debug the program. Type `lay next` once you are in, press Enter to change the veiw a bit, type Break<name> to set a breakpoint somewhere in the program, type n to progress through the program.
