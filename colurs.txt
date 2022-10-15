@@ -1,0 +1,89 @@
+RED AND TURQ:
+
+color0: #000000 
+color8: #55ffd0 
+
+color1: #555555 
+color9: #555555 
+
+color2:  #aaaaaa  
+color10: #aaaaaa 
+
+color3:  #ffffff  
+color11: #ffffff  
+
+color4:  #00aa7f 
+color12: #00aa7f 
+
+color5:  #55ffd0  
+color13: #55ffd0  
+
+color6:  #aa0020  
+color14: #aa0020  
+
+color7:  #ff557f 
+color15: #ff557f  
+
+------------------------------
+
+KEYB:
+
+colour0:  #04192A
+colour8:  #3A5167
+
+colour1:  #BB3126
+colour9:  #BB3126
+
+colour2:  #70B975
+colour10: #70B975
+
+colour3:  #D7A27A
+colour11: #D7A27A
+
+colour4:  #508DCC
+colour12: #508DCC
+
+colour5:  #9F89B8
+colour13: #9F89B8
+
+colour6:  #82CAD8
+colour14: #82CAD8
+
+colour7:  #E8E8E6
+colour15: #E8E8E6
+
+-------------------------------
+
+Modus Dark:
+
+colourfg: #ffffff
+colourbg: #000000
+
+colour0:  #191a1b
+colour8:  #525252
+
+colour1:  #fe6060
+colour9:  #ff8059
+
+colour2:  #4fe42f
+colour10: #44bc44
+
+colour3:  #f0dd60
+colour11: #d0bc00
+
+colour4:  #dfafff
+colour12: #2fafff
+
+colour5:  #ff62d4
+colour13: #feacd0
+
+colour6:  #3fdfd0
+colour14: #00d3d0
+
+colour7:  #ffffff
+colour15: #e0e6f0
+
+https://nosurf.net/activity-list/
+https://www.reddit.com/r/EatCheapAndHealthy/top/?t=month
+https://www.reddit.com/r/EatCheapAndHealthy/comments/xgo6o0/what_recipe_website_do_you_use_the_most/
+
