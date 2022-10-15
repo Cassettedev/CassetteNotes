@@ -2,19 +2,20 @@
 2d Arrays
 Structs
 Continue functions
+Switch
 
 # The C Programming Language
 The C Programming Language is hard. It requires you to handle your own memory, and it comes with few features built in
 
 ## Header files
 Header files are files that are included at the start of a program. They act as an API of sorts, allowing the programmer to have more functionality, such as handling input and output.
-```C
+```
 #include <stdio.h>
 ```
 
 ## Main()
 All code is held inside the main function
-```C
+```
 int main()
 {
 	your code goes here
@@ -23,52 +24,52 @@ int main()
 
 ## Data types and variables
 - char: a single 8-bit characer.
-```C
+```
 char grade = 'A';
 ```
 - char variable[]: the square brackets make it an array. This functions as a string of characters
-```C
+```
 char name[] = "Greg";
 ```
 - short: a 16-bit singed integer. -32,768 to 32,676 in value if singed
-```C
+```
 short age0 = 10;
 ```
 - int: a 16-bit integer, always bigger than `short`. at most -2,147,483,648 to 2,147,483,647 in value if signed
-```C
+```
 int age1 = 20;
 ```
 - long: a 32-bit integer. at most -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 in value if signed
-```C
+```
 long age2 = 30;
 ```
 - float: a 32-bit integer that goes to a precice range of 6 decimal places. 1.2E-38 to 3.4E+38 value
-```C
+```
 float gpa0 = 2.5;
 ```
 - double: a 46-bit integer that goes to a pecise range of 15 decimal places. 2.3E-308 to 1.7E+308 value
-```C
+```
 double gpa1 = 3.4;
 ```
 - long double: an 80-bit integer that goes to a precise range of 19 decimal places. 3.4E-4932 to 1.1E+4932 value
-```C
+```
 long double gpa2 = 3.5;
 ```
 
 Variables can be created and assigned later in the code.
-```C
+```
 int age;
 age = 34;
 ```
 
 Constants can be made with:
-```C
+```
 const int AGE = 34;
 ```
 making the variable all caps is not required, only convention.
 
 Arrays can be made by adding `[]` onto the end of the variable name. For example:
-```C
+```
 char b[] = "name";
 ```
 Variables can be printed in `printf()` by subsituting the variable with these:
@@ -85,28 +86,20 @@ Variables can be printed in `printf()` by subsituting the variable with these:
 - `\%` print a percent sign
 
 for example:
-```C
-printf("%s, your grade is %c \n", name, testGrade);
 ```
-
-## Escape sequences
-Escape sequences are things you can use within strings to manipulate the format or print characters that could be confused for operators, such as `"`
-- \n = newline
-- \t = tab
-- \" = double quote
-- \' = single quote
-- \\ = backslash
+printf("%s, your grade is %c", name, testGrade);
+```
 
 ## Casting
 Casting is converting a datatype of one variable to another. For example:
-```C
-printf("%d \n", (int)3.14);
-printf("%f \n", (double)3 / 2);
+```
+printf("%d ", (int)3.14);
+printf("%f ", (double)3 / 2);
 ```
 
 ## User input
 You can get input from the user with the `scanf()` function. For example:
-```C
+```
 int age;
 
 printf("how old are you?");
@@ -167,7 +160,7 @@ Now that we have these two variables, we can make a third variable that has the 
 
 ## User input
 You can get input from the user with the `scanf()` function. For example:
-```C
+```
 int age;
 
 printf("how old are you?");
@@ -179,7 +172,7 @@ printf("you are %d years old", age);
 
 ## If, For, While, Switch
 An if statement is formated like:
-```C
+```
 int age = 20;
 
 if(age >= 18){
@@ -187,22 +180,23 @@ if(age >= 18){
 }
 ```
 A For loop is formatted like:
-```C
+```
 for(int i = 1; i <= 10; 1++)
 {
 	printf("%d")
 }
 ```
 A While loop is formatted like:
-```C
+```
 int index = 1;
 while(index <= 5){
-	printf(%d\n", index);
+	printf(%d", index);
 	index++;
 }
 ```
+A Switch statement is a more effective alternative for a bunch of `if else` statements
 A Switch statement can be formattted like:
-```C
+```
 char myGrade = 'A';
 switch(myGrade){
 	case 'A':
@@ -217,15 +211,33 @@ switch(myGrade){
 
 ## Functions
 Functions are formatted like:
-```C
-int addNumbers(int num1, int num2){
+```
+int addNumbers(int num1, int num2) {
 	return num1 + num2;
 }
 ```
+The data type `int` at the start of the function is the return type of the function, the type of data the function returns. You can also have `float`, `char`, etc. `void` returns nothing. `return` defines exactly what is being returned. `return` also causes the compiler to exit the function.
+
+It is good practice to declare a function before `main` and define it after `main`. IN pseudo-code:
+```
+int addNumbers(int num1, int num2);
+
+int main() {
+	int x = 5;
+	int y = 10;
+	int result = addNumbers(x, y);
+	return 0;
+}
+
+int addNumbers(int num1, int num2) {
+	return num1 + num2;
+}
+```
+We do this because it's likely that some code will want to call a function that might not have acess to its details(return type, number of arguments etc etc). Declaring functions at the start helps the compiler have the infomation it needs. It's also good practice and good for readability.
 
 ## Structs
 A Struct is a data structure that can store several different data types. They are formatted like:
-```C
+```
 struct Student{
 	char name[50];
 	char major[50];
@@ -243,6 +255,8 @@ int main(){
 	printf("%f", student1.gpa);
 	return 0;
 ```
+They are different from Classes in OOP languages in that they cannot store methods, and cannot do any polymorphism.
+
 ## Compiling
 To compile a C program using GCC, use:
 `gcc file.c -o filename`
@@ -250,11 +264,11 @@ And then to execute:
 `./filename`
 
 With a basic Hello World as an example, titled main.c:
-```C
+```
 #include <stdio.h>
 
 int main(){
-	printf("Hello World\n");
+	printf("Hello World");
 	return 0;
 }
 ```
@@ -270,4 +284,4 @@ You can use gdb to debug a C program, but you have to compile it correctly:
 ```
 gcc -g main.c -o hello
 ```
-you can then use `gdb ./hello` to debug the program. Type `lay next` once you are in, press Enter to change the veiw a bit, type Break<name> to set a breakpoint somewhere in the program, type n to progress through the program.
+you can then use `gdb ./hello` to debug the program. Type `lay next` once you are in, press Enter to change the veiw a bit, type `Break<name>` to set a breakpoint somewhere in the program, type n to progress through the program.

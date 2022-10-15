@@ -1,35 +1,42 @@
 # Becoming a linux chad
 Find a way to use the terminal for as much as possible:
 * Learn all the terminal commands
-* Tmux: splits the terminal?
 * Mutt: email client
-* Cmus: Music player
-* Newsboat: RSS feed
 * RTorrent: Torrents
 
-## Currently in use:
+## Currently in use/have used:
 * Cmus
 * Newsboat
 * nnn
+* mc
+* tree
 * htop
 * neofetch
 * nvim
 * git
 * i3wm
+* tmux
+* feh
+* mpv
+
+## Things to use:
+* A BSD
+* Gentoo
+* File manager for vim
+* COC for vim
+* Emacs
+* DWM/OpenBox/awesomewm/herbstluftwm/Xfwm/Fvwm/CTWM/
+* w3m
+* LaTeX
+* Unicode standards
+* REGEX standards
 
 ## ToFind
 * IRC chat (must be possible) ((Weedchat?))
-* video player
 
 youtube-dl - is a command-line utility for downloading videos or extracting audio files from streaming websites such as YouTube, Dailymotion, and Vimeo.
 
-CMUS - Better moc that acutally works
-
 ​ranger - is a text-based file manager
-
-​micro - text editor
-
-​topydo - todo list
 
 ​pyradio - radio stations player
 
@@ -47,16 +54,6 @@ CMUS - Better moc that acutally works
 
 ​weechat - chatroom
 
-​w3m - text browser
-
-​tree - is a recursive directory listing program that produces a depth indented listing of files
-
-​git - is a version control system for tracking changes in computer files and coordinating work on those files among multiple people
-
-​feh - image viewer
-
-​htop - is an interactive system-monitor process-viewer and process-manager
-
 ​watch - is a command-line tool, part of the Linux procps and procps-ng packages, that runs the specified command repeatedly and displays the results on standard output so you can watch it change over time.
 
 ​w - display who is logged into the Linux and Unix-like server, and what they are doing at command execution time.
@@ -66,10 +63,6 @@ CMUS - Better moc that acutally works
 ​wego - Weather report
 
 ​nethogs - is an open source command line program (similar to Linux top command) that is used for monitor real time network traffic bandwidth used by each process or application.
-
-​newsbeuter - is an open-source RSS/Atom feed reader for text terminals.
-
-​neofetch - A command-line system information tool
 
 ​tty-clock - clock
 
@@ -123,3 +116,13 @@ Lisp
 Rust
 
 Haskell
+
+Assembly
+
+Alogl
+
+Cobol
+
+Fortran
+
+UxnTal

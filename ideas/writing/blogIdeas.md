@@ -1,0 +1,5 @@
+- hacking and hackers used to be cool
+- how I am implimenting solarpunk ideas into my life
+- no you don't "prefer to draw women" you just like drawing your idealised version of what you think a woman should look like
+- people don't hate "video essayists" they just hate vaush
+- bodyshaming is always bad, actually

@@ -5,6 +5,8 @@ fenugreek
 
 ### Tech
 
+Steamdeck
+
 Akko 3068B
 
 sunlight alarm (or a normal alarm clock)
@@ -42,8 +44,6 @@ Logitech C920S HD
 ## Books
 
 ### Fiction
-
-#### "Classics"
 - Frankenstein - Mary Shelley
 - Dracula - Bram Stoker
 - Powers of Darkness: The Lost Version of Dracula - some Icelandic dude lmao
@@ -56,14 +56,35 @@ Logitech C920S HD
 - The Lord of the Rings - J. R. R. Tolkein + The Hobbit
 - The Tale of Genji - Murasaki Shikibu
 - Beowulf - ?????
-
-#### Others
 - The Dispossessed - Ursula K. Le Guin
 - Solaris - Stanisław Lem
+- Pride and Prejudice - Jane Austen
+- Great Expectations - Charles Dickens
+- Jane Eyre - Charlotte Bronte
+- Mrs Dalloway- Virgina Woolf
+- The Odyssey- Homer
+- to kill A mockingbird - Harper Lee
+- The Catcher in the Rye - J. D. Salinger
+- Moby Dick - Herman Melville
+- Lolita - Vladimir Nabokov
+- The Scarlet Letter - Nathaniel Hawthorne
+- The Great Gatsby - F. Scott Fitzgerald
+- Lord of the Flie - william Golding
+- Hamlet - Shakespeare
+- A Study in Scarlet - Arthur Conan Doyle
+- The Handmaid's Tale - Margret Atwood
+- Brave New World - Huxley
+- Heart Of Darkness - Joseph Conrad
+- A Single Man - Isherwood
+- The Reader - Bernhard Schlink
+- The Song of Achilles - Madeline Miller
+- Neuromancer - William Gibson
 
 #### Comics/manga
 - Berserk
 - Akira
+- Watchmen
+- V for Vendetta
 
 ### Non-Fiction
 
@@ -95,17 +116,20 @@ Logitech C920S HD
 
 #### Computer Science
 - The C Programming Language - Brian Kernighan, Dennis Ritchie
-
 - Cracking the Coding Interview - Gayle Laakmann McDowell
-
 - The Algorithm Design Manual - Steven S. Skiena
-
 - Introduction to Algorithms - CLRS
+- The Hackers Dictionary - Guy L. Steele Jr.
+- Understanding Digital Computers - Paul Siegel
 
 #### Writing
 - Oxford Guide to Plain English
 
 - Oxford Guide to Effective Writing and Speaking
+
+#### Language
+- Toki Pona: The Langauage of Good - Sonja Lang
+- Toki Pona: Dictionary - Sonja Lang
 
 #### Math
 *beginning to end from top to bottom*
@@ -191,3 +215,144 @@ Logitech C920S HD
 - Real Analysis - H. L. Royden
 
 - Real and Complex Analysis = Ruden
+
+## Video Games
+- Cataclysm: Dark Days Ahead
+- TIS-100
+- BCC Last Call
+- Shenzhen I/O
+- Opus Magnum
+- Exa Punks
+- MOLEK-SYNTEZ
+- Wild Terra
+- AsciiPatrol
+- SSHTron (ssh sshtron.zachlatta.com)
+- Doom, Rouge-Like
+- Rouge
+- Ascii Sector
+- Caves of Qud
+- Nethack
+- Ultima
+- ElderScrolls 2
+- Wolfenstein 3d
+- DOOM
+- DOOM 2
+- Quake
+- Quake 2
+- Total Annihilation
+- Half Life
+- Half Life 2
+- Portal
+- Portal 2
+- STALKER (all)
+- Fallout 1
+- Fallout 2
+- Fallout NV
+- UnReal World
+- Northern Journey
+- ElderScrolls 3
+- ElderScrolls 4
+- NEO Scavenger
+- Baba is You
+- Celeste
+- Hollow Knight
+- Dark Souls 1
+- Bloodborne
+- Elden Ring
+- Dread Delusion
+- Age of Empires 2
+- Return of the Obra Dinn
+- Noita
+- Valheim
+- Death Trash
+- Dinkum
+- Eldest Souls
+- Unpacking
+- Bear and Breakfast
+- Cult of the Lamb
+- Cruelty Squad
+- Devil May Cry (all)
+- Command & Concquer, Tiberium sun and Red Alert
+- Dead Cells
+- Balsphemous
+- Jupiter Hell
+- Songs of Syx
+- UltraKill
+- Total War Medieval 2
+- Total War Napoleon
+- XCOM (most)
+- Northgard
+- Stray
+- SpiritFarer
+- Total War Shogun 2
+- Europa Universalis 4
+- Stellaris
+- Hearts of Iron 4
+- Victoria 3
+- Crusader Kings 3
+- A Short Hike
+- DUSK
+- Ion Fury
+- Hitman Blood Money
+- Roadwarden
+- Police Quest Collection
+- Heros of Hammerwatch
+- Space Haven
+- Intracenous
+- Loop Hero
+- Katana Zero
+- Ancestors: The Humankind Odyssey
+- Gloomwood
+- Hyper Light Drifter
+- Hypnospace Outlaw
+- Deaths Door
+- Hollow Knight
+- Kenshi
+
+## Retro Games
+- Super Mario 1 + 2 + 3
+- Castlevania (most)
+- Metal Gear 1 + 2 + 3
+- Mike Tysons Punch Out
+- Metroid + Super Metroid
+- Legend of Zelda (most)
+- Ninja Gaiden 1 + 2
+- Tetris
+- Sonic 1+2
+- Chrono Trigger
+- Final Fantasy 2 + 3?
+- F-Zero
+- Star Fox
+- Sims 1
+- SimCity
+- Mario 64
+- Shadow of the Collosum (retro??)
+- Far Cry 2 (retro??)
+
+# Shows
+- Megazone 23
+- Planetes - Makoto Ykimura
+- Ergo Proxy
+- Serial Experiments Lain
+
+# Movies
+- Nausicca of the Valley of the Wind - Hayao Miyazaki
+- Yokohama Kaidashi Kikou - Hitoshi Ashinano
+- Drunken Dragon - Chung-Hsing Chao
+- The Social Network - David Fincher
+- Batman Returns - Tim Burton
+- PROMARE - Studio Trigger
+- Terminator 1
+- Terminator 2
+- 2001 A space Odyssey
+- Dracula 1931
+- Fight Club
+- Ikuru
+- Pulp Fiction
+- Rashomon
+- Seven Samurai
+- Taxi Driver
+- The Breakfast Club
+- The Godfather
+- Megazone 23
+
