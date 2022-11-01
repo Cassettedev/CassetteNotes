@@ -1,0 +1,84 @@
+#+TITLE: Emacs Docs
+#+DESCRIPTION: Personal Documentation for the Emacs prorgam
+#+AUTHOR: Cassette
+#+DATE: 2022-10-27
+#+STARTUP: showall
+
+* Emacs is a development enviroment
+
+** Keybindings
+ C = CRTL
+ M = ALT
+ S = Shift
+ s = Super
+
+*** Navigation
+  It can be helpful to think of ~b~ as ~backwards~, ~f~ as ~fowards~, ~n~ as ~next~, and ~p~ as ~previous~. 
+  - C-p :: Move cursor up
+  - C-n :: Move cursor down
+  - C-b :: Move cursor left
+  - C-f :: Move cursor right
+  - M-b :: Move left by one word
+  - M-f :: Move right by one word
+  - C-k :: ~Kill~ to end of line
+  - C-y :: ~Yank~ the last kill, aka paste
+  - C-space :: ~Kill~ to end of selection
+  - C-w :: Cut and copy paste
+
+*** Leaving Emacs and working with files
+  - C-x C-c :: Exit Emacs permanently
+  - C-x C-f :: Read a file, open with dired
+  - C-x C-s :: Save a file
+  - C-x s :: Save all files
+  - C-x u :: Undo
+
+*** Dired
+  - M-x dired :: Open dired
+  - ENTER :: Open file in emacs, or go into subdirectory
+  - .. :: Go up a directory
+  - d :: Mark a file for deletion
+  - u :: Remove mark for deletion
+  - x :: Delete files marked for deletion
+
+*** Calender
+  - M-x calander :: Shows a calender
+
+*** Tetris?
+  - M-x tetris :: have fun
+
+*** Searching
+  - C-s :: Search foward
+  - [ ] C-r :: Search backward
+  - C-M-r :: Regular search
+
+*** Buffers
+  - C-x b :: Select another buffer
+  - C-x C-b :: List all buffers
+  - C-x k :: Kill a buffer
+
+*** Windows
+  - C-x 0 :: Close current window
+  - C-x 1 :: Close all windows expect current one
+  - C-x 2 :: Split current window vertically
+  - C-x 3 :: Split current window horizontally
+
+*** Shell
+  M-x can be used in many different ways. It will bring up a prompt where you can type many things
+  - M-x shell :: Start a shell window
+
+** Major and Minor Modes
+ Major Modes are modes that are applied to a buffer in order to give that buffer certain functionality. This can be things like ORG Mode, Emacs Lisp Mode, etc etc. It is very comparable to how certain files like Markdown files get certain functionality. There can only be one Major Mode active in one buffer at a time.
+
+ Minor Modes provide functionality that isn't tied to a specific file or mode of the current buffer. Many Minor Modes can be active at once. A good example is ~hl-line-mode~ and ~global-hl-line-mode~.
+
+** init.el
+ The ~init.el~ file is the config file for emacs.
+
+** Org Mode
+ Org Mode is a Markdown-like mode for emacs that allows you to do many things such as keep track of tasks.
+ - TAB and S-TAB :: Fold and Unfold
+ - M-up :: Move a heading up
+ - M-down :: Move a heading down
+ - M-left :: Promote a heading
+ - M-right :: Demote a heading
+ - M-RET :: Insert a new headline

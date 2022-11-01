@@ -1,0 +1,164 @@
+#+TITLE: Kotlin Docs
+#+DESCRIPTION: Personal Documentation for the Kotlin programming language
+#+AUTHOR: Cassette
+#+DATE: 2022-11-01
+#+STARTUP: showall
+
+* Kotlin is a programming language
+to add a normal variable:
+#+BEGIN_CODE kotlin
+var x = 5
+#+END_CODE
+
+to make it constant:
+#+BEGIN_CODE kotlin
+val x = 5
+#+END_CODE
+
+to declare the type (optional):
+#+BEGIN_CODE kotlin
+val x: Int = 5
+#+END_CODE
+
+assigning null variables:
+#+BEGIN_CODE kotlin
+val x: Int? = null
+#+END_CODE
+
+print statement:
+#+BEGIN_CODE kotlin
+println(x)
+#+END_CODE
+
+getting input:
+#+BEGIN_CODE kotlin
+val num1 = readLine()
+val num2 = readLine()
+#+END_CODE
+
+converting variables to other types:
+#+BEGIN_CODE kotlin
+/*
+	!! makes the variable assume that the variable is not null
+*/
+val result = num1!!.toInt() + num2!!.toInt()
+#+END_CODE
+
+null safe tip:
+#+BEGIN_CODE kotlin
+/*
+	?: will assign the value "0" to the variable in the case that it 
+	turns out to be null
+*/
+val num1 = readLine() ?: "0"
+#+END_CODE
+
+logical operators:
+#+BEGIN_CODE kotlin
+|| // OR
+&& // AND
+== // Equal To
+!= // Does Not Equal
+!() // Inverts The Output Of The Expression In The Parenthesis
+#+END_CODE
+
+if else:
+#+BEGIN_CODE kotlin
+if(condition) {
+	your code goes here
+} else if(condition) {
+	your code goes here
+} else {
+	your code goes here
+}
+#+END_CODE
+
+you can use if conditions to assign values to variables:
+#+BEGIN_CODE kotlin
+/* 
+	this willl asign 2 to x if the variabe y is 2
+	and 3 if the variable y is not 2
+*/
+val x: Int = if(y == 2) 2 else 3
+#+END_CODE
+
+lists (arrays):
+#+BEGIN_CODE kotlin
+val shoppingList = listOf<String>("bannana", "apple", "bread", "g u n")
+#+END_CODE
+
+accessing items in list:
+#+BEGIN_CODE kotlin
+println(shoppingList[0])
+/* output: bannana */
+println(shoppingList[2])
+/* output: bread */
+#+END_CODE
+
+By default, lists are immutable. To make them mutable:
+#+BEGIN_CODE kotlin
+val shoppingList = mutableListOf<String>("bannana", "apple", "bread", "g u n")
+#+END_CODE
+
+while loop:
+#+BEGIN_CODE kotlin
+var counter: Int = 0 /* var because the variable will change */
+while(counter < shoppingList.size) {
+	println(shoppingList[counter])
+	counter++
+	/* this code will be
+	repeated until counter
+	becomes equal to the
+	amount of items in the
+	list*
+}
+#+END_CODE
+
+for loop:
+#+BEGIN_CODE kotlin
+for(shoppingItem in shoppingList) {
+	println(shoppingItem)
+}
+#+END_CODE
+
+when:
+#+BEGIN_CODE kotlin
+val x: Int = 3
+when(x){
+	in 1..2 -> println("x is between 1 and 2")
+	in 3..10 -> println("x is between 3 and 10")
+	else -> {
+		more code goes here
+	}
+}
+#+END_CODE
+
+functions:
+#+BEGIN_CODE kotlin
+fun main(){
+	all code runs here
+}
+#+END_CODE
+
+making your own function:
+#+BEGIN_CODE kotlin
+fun addTen(){
+	val num1: Int = 10
+	val num2: Int = 10
+	result = num1 + num2
+	println(result)
+}
+#+END_CODE
+
+function with input and return types:
+#+BEGIN_CODE kotlin
+fun isEven(number: Int): Boolean{
+	return number % 2 == 0
+}
+#+END_CODE
+
+using function:
+#+BEGIN_CODE kotlin
+val x = isEven(5)
+println(x) /* should print false */
+#+END_CODE

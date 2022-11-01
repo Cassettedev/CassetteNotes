@@ -1,0 +1,92 @@
+#+TITLE: Programming notes
+#+DESCRIPTION: Notes realted to the act of programming
+#+AUTHOR: Cassette
+#+DATE: 2022-11-01
+#+STARTUP: showall
+
+* Programming is the art of telling the computer to do stuff
+
+** Data
+ All computers, and consequently programs, work with and manipulate data. While the program may abstract this data to represent things such as "int" and "char" and "float", it is important to remember that all data is just a combination of 1 and 0.
+
+*** Variables
+  You can put this data into Variables. Variables are often described as "containers" for data, which you can assign a name and manipulate.
+  #+begin_src python
+  age = 20
+  #+end_src
+
+*** Functions
+  A function is a segment of code, often code that does something useful, that is given a name and can be called later in the program. Calling a function executes the code within the function without needing to write the code again. An example of a function that is in almost every programming language is Print:
+  #+begin_src python
+  print(age)
+  #+end_src
+   
+  Which would output:
+  =20=
+
+** What we have learned
+ Let's write a program in Python that uses a *variable* to store someone's age as a *number*, and then adds ten to that age and prints it out with a *function*:
+ #+begin_src python
+ age = 20
+
+ def numPlusTen(num):
+	 newnum = num + 10
+	 return newnum
+
+ print(numPlusTen(age))
+ #+end_src
+
+ Which would output: 
+ =30=
+
+ Notice how the function is not "agePlusTen", but "numPlusTen", and uses "newnum" instead of "newage" as variables. This structures the program in a way that allows it to be used for many other things, such as adding ten to a price:
+ #+begin_src python
+ price = 30
+
+ def numPlusTen(num):
+	 newnum = num + 10
+	 return newnum
+
+ print(numPlusTen(price))
+ #+end_src
+
+ Which would output:
+ =40=
+
+ Notice how the only thing that has changed is the "price" variable name.
+ We can now call this function several times, saving space on what would otherwise be a very large program:
+ #+begin_src python
+ age = 20
+ price = 30
+ km = 312
+ fingers = 9
+
+ def numPlusTen(num):
+	 newnum = num + 10
+	 return newnum
+
+ print(numPlusTen(age))
+ print(numPlusTen(price))
+ print(numPlusTen(km))
+ print(numPlusTen(fingers))
+ #+end_src
+
+ Which would output:
+ #+begin_src
+ 30
+ 40
+ 322
+ 19
+ #+end_src
+
+ Notice the 'return' statment at the end of each function, and the "num" in the parenthesies. These are called Return statments and Arguments respectivly.
+
+ #+begin_quote
+ — Prototype before polishing. Get it working before optimizing it.
+ — Separate policy from mechanism; separate interfaces from engines.
+ — Write simple modular parts connected by clean interfaces.
+ — Design programs to be connected to other programs.
+ — Write programs to write programs when you can.
+ — When a program has nothing surprising to say, it should say nothing.
+ — When a program must fail, it should fail noisily and as soon as possible.
+ #+end_quote

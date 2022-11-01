@@ -1,0 +1,22 @@
+#+TITLE: 2048
+#+DESCRIPTION: Documentation for the game 2048
+#+AUTHOR: Cassette
+#+DATE: 2022-10-27
+#+STARTUP: showall
+
+* 2048 
+2048 is a grid based game where you shift numbers around and add them up with the goal of reaching the number 2048. Often played on a 4x4 grid, and the numbers double, starting with 2.
+
+- 2
+- 4
+- 8
+- 16
+- 32
+- 64
+- 128
+- 256
+- 512
+- 1024
+- 2048
+
+Each number takes up one space on the grid. You must move two numbers into each other to add them up to the next number. When you move in a direction, every block moves in that direction if possible.

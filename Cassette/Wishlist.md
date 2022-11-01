@@ -124,7 +124,6 @@ Logitech C920S HD
 
 #### Writing
 - Oxford Guide to Plain English
-
 - Oxford Guide to Effective Writing and Speaking
 
 #### Language
@@ -135,85 +134,44 @@ Logitech C920S HD
 *beginning to end from top to bottom*
 
 - How to Solve It - George Pólya
-
 - Discrete Mathematics with Applications - Susanna S. Epp
-
 - Discrete Mathematical Structures - Kolman, Busby and Ross
-
 - Mathematical Proofs, A Transition to Advanced Mathematics - Gary Chartrand, Albert D. Plomeni, Ping Zhang
-
 - An Introduction to Abstract Mathematics - Robert J. Bond, William J. Keane
-
 - AGS Pre-Algebra
-
 - Fearons Pre-Algebra
-
 - Geometry - Jurgenen, Brown, King
-
 - College Algebra - Jerome E. Kaufmann
-
 - College Algebra Essentials - Blitzer
-
 - A Graphical Approch to Algebra & Trigonometry - Honsby, Lial, Rockswold, (try to get the instructors eddition)
-
 - Calculus - James Stewart
-
 - Calculus - Michael Spivak
-
 - Calculus made Easy - Silvanus P. Thompson
-
 - A First Course In Differential Equations with Modeling Applications - Dennis G. Zill
-
 - Ordinary Differential Equations With Applications - Larry C. Andrews
-
 - Elementary Linear Algebra - Howard Anton
-
 - Linear Algebra - Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence
-
 - Linear Algebra - Serge Lang
-
 - Linear Algebra - Kenneth Hoffman and Ray Kunze
-
 - Finite-Dimensional Vector Spaces - Paul R. Halmos
-
 - Linear Algebra - Schaum's Outlines, Seymour Lipschutz, Marc Lipson
-
 - Linear Algebra and its Applications - Gilbert Strang
-
 - Mathematical Statistics with Applications - Dennis D. Wackerly, William Mendenhhall III, Richard L. Scheaffer
-
 - A First Course in Probability - Sheldon Ross
-
 - Fundementals of Complex Analysis with Applications to Engineering and Science - E. B. Saff, A. D. Snider
-
 - Complex Variables and Applications - James Ward Brown, Ruel V. Churchill
-
 - Analysis 1 and 2 - Terence Tao
-
 - Advanced Calculus a Course in Mathematical Analysis - Patrick M. Fitzpatrick
-
 - Princeiples of Mathematical Analysis - Ruden
-
 - Elementary Analysis: The Theory of Calculus - Kenneth A. Ross
-
 - Algebra - Michael Artin
-
 - Abstract Algebra A First Course - Dan Saracino
-
 - Contemporary Abstract Algebra - Joseph A. Gallian
-
 - Introduction to Topology - Theodore W. Gamelin, Robert Everist Greene
-
 - Applied Combinatorics - Alan Tucker
-
 - Naive Set Theory - Paul R. Halmos
-
 - Introductory Functional Analysis with Applications - Kreyszic
-
-- Graph Theory - Ronald Gould
-
 - Real Analysis - H. L. Royden
-
 - Real and Complex Analysis = Ruden
 
 ## Video Games
@@ -308,8 +266,37 @@ Logitech C920S HD
 - Deaths Door
 - Hollow Knight
 - Kenshi
+- Dwarf Fortress
+- Star Fetchers
+- The Last faith
+- One Dreamer
+- Gloomwood
+- I was a Teenage Exocolonist
+- Rollerdrome
+- Cult of the Lamb
+- All zachtronics games
+- Stray
+- Dread Delusion
+- Milk inside a bag of milk
+- Milk outside a bag of milk
+- Age of Empires 4
+- Northern Journey
+- Jupiter Hell
+- Death Trash
+- Cruelty Squad
+- Going Medieval
+- Spiritfarer 
+- Baba is You
+- Hypnospace Outlaw
+- DUSK
+- Return of the Obra Dinn
+- Dead Cells
+- Slipstream
+- Caves of Qud
+- NEO Scavenger
 
 ## Retro Games
+A RETRO GAME IS ANY GAME MADE BEFORE 2010
 - Super Mario 1 + 2 + 3
 - Castlevania (most)
 - Metal Gear 1 + 2 + 3
@@ -328,6 +315,32 @@ Logitech C920S HD
 - Mario 64
 - Shadow of the Collosum (retro??)
 - Far Cry 2 (retro??)
+- Original Xcom games
+- Resident Evil
+- Half Life 1 + 2
+- Portal
+- Halo games
+- RDR1
+- Fallout NV
+- All metal gear games
+- GTA 4 and older
+- STALKER games
+- Age Of Empires 2
+- Quake Games
+- Doom games
+- Sims 2
+- DMC games
+- Shadow of the collosus
+- Mirrors edge 1
+- Minecraft
+- Hitman games
+- C&C games
+- Rouge
+- Nethack
+- Total Annihilation
+- Police Quest collection
+- Elder Scrolls Daggerfall + morrowind
+- Fallout 1 + 2
 
 # Shows
 - Megazone 23

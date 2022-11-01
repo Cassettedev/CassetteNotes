@@ -1,0 +1,7 @@
+#+TITLE: Dieting
+#+DESCRIPTION: Notes on dieting
+#+AUTHOR: Cassette
+#+DATE: 2022-11-01
+#+STARTUP: showall
+
+* A diet is a set of rules, guidelines, or restrictions relating to the personal intake of food

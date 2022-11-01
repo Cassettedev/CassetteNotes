@@ -2,13 +2,13 @@
 - Arrays [x]
 - Input and output [x]
 - Strings []
-- Structs [x]
+- Structs []
 - Pointers, malloc() and memory management []
 - Return types, `return 0;` [x]
 - Concatenation? `%d, %f` etc etc [x]
 - Read and Write to files []
 - NULL []
-- Header Files [x]
+- Header Files []
 - Create executable file []
 - `int main(int argc, char**argv)` []
 
@@ -175,6 +175,8 @@
 - Physics stuff
 
 ## Specific math stuff
+- distributive property
+- Fractions
 - Pythagoras theorem
 - Vectors
 - Angles

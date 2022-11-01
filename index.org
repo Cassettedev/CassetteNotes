@@ -1,0 +1,25 @@
+#+TITLE: Home Page
+#+DESCRIPTION: The Home Page of my website
+#+AUTHOR: Cassette
+#+DATE: 2022-11-01
+#+STARTUP: showall
+
+* The Cassette Store
+The Cassette Store is the website of internet user Cassette. It is intended to be used as a blog, wiki, and personal hub. 
+
+This site is currently being written in pure HTML, and a small amount of css. Absolutely no Javascript, tracking, or any spooky modern web features will be added to this site.
+
+** [Cassette](Cassette/Cassette.md)
+Here you will find infomation about the maintaner of the site
+
+** [Wiki](Wiki/Wiki.md)
+Here you will find the wiki
+
+** [Blog](Blog/Blog.md)
+Here you will find the blog
+
+** [License]
+Here will you find the license to the webstite
+
+** [LOG](LOG.md)
+The log for the site

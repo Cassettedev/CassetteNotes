@@ -1,0 +1,19 @@
+#+TITLE: STEM Docs
+#+DESCRIPTION: Explaining what STEM Docs is used for
+#+AUTHOR: Cassette
+#+DATE: 2022-11-27
+#+STARTUP: showall
+
+* Documentation for things relating to the STEM fields
+
+** [C](C.md)
+ The C Programming Language
+
+** [Javascript](Javascript.md)
+ The Javasctipt Programming Language
+
+** [Pico-8](Pico-8.md)
+ The Pico-8 fantasy console
+
+** [Vim](Vim.md)
+ The Vim Text Editor

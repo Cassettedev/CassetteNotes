@@ -1,0 +1,74 @@
+#+TITLE: Javascript Docs
+#+DESCRIPTION: Personal Documentation for the Javascript programming language
+#+AUTHOR: Cassette
+#+DATE: 2022-11-01
+#+STARTUP: showall
+
+* Javascript is the langauge of the web
+
+** Basics
+ #+BEGIN_CODE javascript
+ console.log() 
+ #+END_CODE
+ takes the respective input and outputs it to the console.
+
+*** Assigning variables
+  There are many ways to assign variables in Javascript. One of the main ways is with `let`.
+  #+BEGIN_CODE javascript
+  let variable = 
+  #+END_CODE
+
+  `let` is block-scoped, meaning it can only be used within the "block" of code that it resides in, the "block" being anything that is surrounded by curly braces ```{}```. If declared outside of a "block", it will be accsesable to everything. **You can think of the entire file as one "block" of code.** 
+  `let` can be declared once and re-defined, but not re-declared. To explain:
+  This will work
+  #+BEGIN_CODE javascript
+  let greeting = "say Hi";
+  greeting = "say Hello instead";
+  #+END_CODE
+
+  But this will not
+  #+BEGIN_CODE javascript
+  let greeting = "say Hi";
+  let greetng = "Say Hello instead";
+  #+END_CODE
+
+  And if each variable is defined in different scopes, there will be no problem
+  #+BEGIN_CODE javascript
+  let greeting = "say Hi";
+  if (true) {
+  let greeting = "say Hello instead";
+      console.log(greeting); // "say Hello instead"
+  }    
+  console.log(greeting); // "say Hi"
+  #+END_CODE
+
+  Another way to assign variables is to assign them with `var`. `var` is the original way of declaring variables, but is not often used.
+  #+BEGIN_CODE javascript
+  var variable =
+  #+END_CODE
+
+  When declared inside a function, it is scoped only to that function. When it is declared outside a function, the scope becomes global.
+  `var` can be re-defined and re-declared, like so:
+  #+BEGIN_CODE javascript    
+  var greeter = "hey hi";
+  var greeter = "say Hello instead";
+  #+END_CODE
+
+  As well as
+  #+BEGIN_CODE javascript
+  var greeter = "hey hi";
+  greeter = "say Hello instead";
+  #+END_CODE
+
+  Both of these will work fine. This can be a problem if you are not careful. For example:
+  #+BEGIN_CODE javascript
+  var greeter = "hey hi";
+  var times = 4;
+
+  if (times > 3) {
+	  var greeter = "say Hello instead"; 
+  }
+  console.log(greeter) // "say Hello instead"
+  #+END_CODE
+
+  You can imagine that the `console.log(greeter)` may be several lines down in the program, and it may not have the intended effect.

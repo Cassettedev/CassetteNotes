@@ -1,0 +1,8 @@
+#+TITLE: Pico8 Docs
+#+DESCRIPTION: Personal Documentation for Pico8
+#+AUTHOR: Cassette
+#+DATE: 2022-11-01
+#+STARTUP: showall
+
+* Pico-8 is a fantasy console
+Pico-8 is a fantasy console, meaning it is an emulator for a fictional video game console

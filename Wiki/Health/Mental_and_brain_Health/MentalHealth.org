@@ -1,0 +1,7 @@
+#+TITLE: Mental Health
+#+DESCRIPTION: Notes on mental health
+#+AUTHOR: Cassette
+#+DATE: 2022-11-01
+#+STARTUP: showall
+
+* Mental Health is health relating to the brain and the way it functions

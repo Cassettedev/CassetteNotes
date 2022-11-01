@@ -1,0 +1,221 @@
+#+TITLE: C Docs
+#+DESCRIPTION: Personal Documentation for the C programming language
+#+AUTHOR: Cassette
+#+DATE: 2022-10-28
+#+STARTUP: showall
+
+* The C Programming Language
+The C Progamming Language is hard. It requires you to handle your own memory, and it comes with a few features built in.
+
+** Header Files
+ Header files are files that are included at the start of a progem. They act as an API, allowing the programmer to have moe functionality in their program.
+ #+BEGIN_SRC C
+ #include <stdio.h>
+ #+END_SRC
+
+** Main()
+ Most code is held inside the main function
+ #+BEGIN_SRC C
+ int main()
+ {
+     your code goes here;
+ }
+ #+END_SRC
+
+** Data types and variables
+ - char :: a single 8-bit character
+ - short :: a 16-bit singed integer. 32,768 to 32,676
+ - int :: a 16-bit integer. Always bigger than a ~short~. -2,147,483,648 to 2,147,483,647
+ - long :: a 32-bit integer. -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+ - float :: a 32-bit integer that goes to a precice range of 6 decimal places. 1.2E-38 to 3.4E+38
+ - double :: a 46-bit integer that goes to a pecise range of 15 decimal places. 2.3E-308 to 1.7E+308
+
+ Variables can be created and assigned like this
+ #+BEGIN_SRC C
+ int age;
+ age = 34;
+ #+END_SRC
+
+ Constants can be made like this
+ #+BEGIN_SRC C
+ const int AGE = 34;
+ #+END_SRC
+
+ Making the constant variable all caps is not required, but it is convention.
+
+ Arrays can be made bu adding ~[]~ onto the end of the variable name.
+ #+BEGIN_SRC C
+ char b[] = "name";
+ #+END_SRC
+
+ Variables can be printed in =printf()= by subsituting the variable with one of these
+ - =%c= :: char
+ - =%d= :: int
+ - =%e= :: eponential float
+ - =%f= :: float
+ - =%i= :: integer number
+ - =%o= :: octal number
+ - =%s= :: a string of characters
+ - =%u= :: unsigned decimal number
+ - =%x= :: number in hex
+ 
+** Casting
+ Casting is converting a datatype of one variable to another
+ #+BEGIN_SRC C
+ printf("%d "), (int)3.14);
+ printf("%f "), (double)3/2);
+ #+END_SRC
+
+** User input
+ You can ger input from the user with =scanf()=
+ #+BEGIN_SRC C
+ int age;
+
+ printf("how old are you?");
+ scanf("%d", age);
+ printf("you ate %d years old", age);
+ #+END_SRC
+
+ =scanf()= will only read up to any white spaces. =fgets()= can be used to read whitespace. =fgets()= requires the name of the variable, the size of the input (array), and =stdin= for standard input.
+
+** Pointers
+ A pointer is just a variable that holds a memory adress.
+ | address | value |
+ |---------+-------|
+ |     100 |       |
+ |     101 |       |
+ |     102 |       |
+ |     103 |       |
+ |     104 |       |
+ |     105 |       |
+ |     106 |       |
+
+ In our program, we have a variable `int a = 5;`. When we compile the program, the compiler assigns the variable name "a" to address `102`, and the value `5`. Whats really going on is the compiler goes to *somewhere* in RAM, address `102` in this case, and assigns the value of `5` into it. For all intents and purposes, the variable name `a` disapears to the computer.
+ | address | value |
+ |---------+-------|
+ |     100 |       |
+ |     101 |       |
+ | 102 : a |     5 |
+ |     103 |       |
+ |     104 |       |
+ |     105 |       |
+ |     106 |       |
+
+ Let's say we then make a variable `pointer b;`. When compiled, the variable is stored at a random address like any other variable, address `104` in this case. You could *theoretically* set the memory address it's pointing to manually, `pointer b = 102;` for example, but this is impractical. It's easier to use the location of the variable we want to point to as the value we give to the pointer. In C and C++ we use the `&` symbol, which can be thought of as `get the address of`. We can do `pointer b = &a;`, which now points to the address of wherever `a` is stored in memory. 
+ | address | value |
+ |---------+-------|
+ |     100 |       |
+ |     101 |       |
+ | 102 : a |     5 |
+ |     103 |       |
+ | 104 : b |   102 |
+ |     105 |       |
+ |     106 |       |
+
+ Now that we have these two variables, we can make a third variable that has the value of *the location* pointed to by `b`. In C and C++, this looks like, `int c = *b;`. `*` Is not multiplication, it can be thought of as `get the value at`. The variable `c` will be stored somewhere in memory like any other variable, `100` in this case, and stores the value `5`, the same value that is held at `104`, which is what `b` is pointing to.
+ | address | value |
+ |---------+-------|
+ | 100 : c |     5 |
+ |     101 |       |
+ | 102 : a |     5 |
+ |     103 |       |
+ | 104 : b |   102 |
+ |     105 |       |
+ |     106 |       |
+
+** If, For, While, Switch
+
+*** If
+  An If Statement is formatted like this
+  #+BEGIN_SRC C
+  int age = 20;
+
+  if (age >= 18) {
+      your code goes here;
+  }
+  #+END_SRC
+
+*** For
+  A For Loop is formatted like this
+  #+BEGIN_SRC C
+  int index = 1;
+  while(index < 5) {
+      printf("%d", index);
+      index++;
+  }
+  #+END_SRC
+
+*** Switch
+  A Switch Statement a more efective alternative for a bunch of =if else= statements
+  #+BEGIN_SRC C
+  char myGrade = 'A';
+  switch(myGrade){
+      case 'A':
+	  do stuff;
+	  break;
+      case 'F':
+	  do stuff;
+	  break;
+      default:
+	  do stuff;
+  #+END_SRC
+
+** Functions
+ Functions allow a block of code to be defined outside the =main()= function, and called anytime in the proram after it is declared
+ #+BEGIN_SRC C
+ int addNumbers(int num1, int num2);
+
+ int addNumbers(int num1, int num2,) {
+     return num1 + num2;
+ }
+ #+END_SRC
+
+ The data type ~int~ at the start of the function is the return type of the function, the type of data the function returns. You can also have ~float~, ~char~, etc. ~void~ returns nothing, and is useful when working with pointers. ~return~ defines exactly what is being returned. ~return~ also causes the compiler to exit the function.
+
+ It is good practice to declare a function before =main()= and define it afterwards
+ #+BEGIN_SRC C
+ int addNumbers(int num1, int num2);
+
+ int main() {
+	 int x = 5;
+	 int y = 10;
+	 int result = addNumbers(x, y);
+	 return 0;
+ }
+
+ int addNumbers(int num1, int num2) {
+	 return num1 + num2;
+ }
+ #+END_SRC C
+
+** Structs
+ A Struct is a data structure that can store several different data types.
+ #+BEGIN_SRC C
+ struct Student{
+     char name[50];
+     char major[50];
+     int age;
+     double gpa;
+ };
+
+ int main(){
+     struct Student student1;
+     student1.age = 17;
+     student1.gpa = 3.2;
+     strcpy(student1.name, "Greg");
+     strcpy(student1.major, "Art");
+	
+     printf("%f", student1.gpa);
+     return 0;
+ #+END_SRC
+
+** Compiling
+ To compile using GCC
+ ~gcc file.c -o filename~
+ And then to execute:
+ ~./filename~
+
+** Debugging
+ You can use gdb to debug a C program, but you have to compile it correctly
+ ~gcc -g main.c -o hello~
+ you can then use ~gdb ./hello~ to debug the program. Type ~lay next~ once you are in, press Enter to change the veiw a bit, type ~Break<name>~ to set a breakpoint somewhere in the program, type n to progress through the program.

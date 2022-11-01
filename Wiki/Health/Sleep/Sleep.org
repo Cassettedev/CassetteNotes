@@ -1,0 +1,8 @@
+#+TITLE: Sleep notes
+#+DESCRIPTION: Notes on sleeping
+#+AUTHOR: Cassette
+#+DATE: 2022-11-01
+#+STARTUP: showall
+
+
+* Sleep is imortant

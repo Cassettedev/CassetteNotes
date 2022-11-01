@@ -1,0 +1,10 @@
+#+TITLE: STEM
+#+DESCRIPTION: Notes realted to STEM fields
+#+AUTHOR: Cassette
+#+DATE: 2022-11-01
+#+STARTUP: showall
+
+* Science, Technology, Engineering, Mathematics 
+
+** [Computer_Science](Computer_Science/Computer_Science.md)
+ Computer Science is the study of computation
